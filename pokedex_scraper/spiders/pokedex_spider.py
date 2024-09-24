@@ -10,33 +10,25 @@ class PokedexSpider(scrapy.Spider):
     start_urls = ["https://pokemondb.net/pokedex/all"]
 
     def parse(self, response):
-        # Seleciona todas as linhas da tabela de Pokémon
         rows = response.xpath('//table[contains(@id, "pokedex")]/tbody/tr')
         for row in rows:
             item = PokedexScraperItem()
             # Número
             item['numero'] = row.xpath('.//td[@class="cell-num"]/text()').get().strip('# ')
-            # Nome e URL
             nome_cell = row.xpath('.//td[@class="cell-name"]')
             item['nome'] = nome_cell.xpath('.//a/text()').get()
             relative_url = nome_cell.xpath('.//a/@href').get()
             item['url'] = urljoin(response.url, relative_url)
-            # Tipos
             tipos = row.xpath('.//td[@class="cell-icon"]/a/text()').getall()
             item['tipos'] = [tipo.strip() for tipo in tipos]
-            # Peso e Tamanho
             peso_tamanho = row.xpath('.//td[@class="cell-pokemon"]/text()').getall()
             if peso_tamanho:
-                # Exemplo de formato: "6'07\" (2.0 m)" e "220.5 lbs (100.0 kg)"
-                # Vamos extrair apenas o peso em kg
                 peso_kg_text = row.xpath('.//td[@class="cell-pokemon"]/text()').re_first(r'\(([\d.]+) kg\)')
                 item['peso_kg'] = float(peso_kg_text) if peso_kg_text else None
             else:
                 item['peso_kg'] = None
-            # Inicialmente, deixaremos evoluções e habilidades vazias, serão preenchidas depois
             item['evolucoes'] = []
             item['habilidades'] = []
-            # Passa para a página individual do Pokémon para extrair mais dados
             yield scrapy.Request(
                 url=item['url'],
                 callback=self.parse_pokemon,
@@ -45,10 +37,8 @@ class PokedexSpider(scrapy.Spider):
 
     def parse_pokemon(self, response):
         item = response.meta['item']
-        # Tamanho em cm
         tamanho_text = response.xpath('//th[text()="Height"]/following-sibling::td/text()').get()
         if tamanho_text:
-            # Exemplo: "0.7 m (7 dm)" ou "1.1 m (11 dm)"
             tamanho_cm = None
             height_match = response.xpath('//th[text()="Height"]/following-sibling::td/text()').re_first(r'([\d.]+)\s*m')
             if height_match:
@@ -72,7 +62,6 @@ class PokedexSpider(scrapy.Spider):
                     'url': evol_url
                 })
         item['evolucoes'] = evolucoes
-        # Habilidades
         habilidades = []
         habilidades_section = response.xpath('//span[text()="Abilities"]/ancestor::h2/following-sibling::div')
         if habilidades_section:
@@ -81,7 +70,6 @@ class PokedexSpider(scrapy.Spider):
                 nome = hab.xpath('.//td[1]/a/text()').get()
                 relative_hab_url = hab.xpath('.//td[1]/a/@href').get()
                 hab_url = urljoin(response.url, relative_hab_url)
-                # Para a descrição do efeito, precisamos acessar a página da habilidade
                 yield scrapy.Request(
                     url=hab_url,
                     callback=self.parse_habilidade,
@@ -89,8 +77,7 @@ class PokedexSpider(scrapy.Spider):
                 )
         else:
             item['habilidades'] = habilidades
-            yield item  # Sem habilidades, retorna o item
-        # Se não houver habilidades, já retornou o item acima
+            yield item  
 
     def parse_habilidade(self, response):
         item = response.meta['item']
@@ -103,6 +90,4 @@ class PokedexSpider(scrapy.Spider):
             'descricao': descricao.strip() if descricao else None
         })
         item['habilidades'] = habilidades
-        # Verifica se todas as habilidades já foram processadas
-        # Isso pode ser melhorado para sincronizar corretamente
         yield item
