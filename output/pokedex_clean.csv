@@ -1,0 +1,1026 @@
+numero,nome,url,tipos,peso_kg,evolucoes,habilidades,tamanho_cm
+45,Bulbasaur,https://pokemondb.net/pokedex/bulbasaur,"['Grass', 'Poison']",0.0,[],[],70.0
+78,Charizard,https://pokemondb.net/pokedex/charizard,"['Fire', 'Flying']",0.0,[],[],170.0
+60,Ivysaur,https://pokemondb.net/pokedex/ivysaur,"['Grass', 'Poison']",0.0,[],[],100.0
+59,Wartortle,https://pokemondb.net/pokedex/wartortle,['Water'],0.0,[],[],100.0
+58,Charmeleon,https://pokemondb.net/pokedex/charmeleon,['Fire'],0.0,[],[],110.00000000000001
+79,Blastoise,https://pokemondb.net/pokedex/blastoise,['Water'],0.0,[],[],160.0
+80,Venusaur,https://pokemondb.net/pokedex/venusaur,"['Grass', 'Poison']",0.0,[],[],200.0
+39,Charmander,https://pokemondb.net/pokedex/charmander,['Fire'],0.0,[],[],60.0
+40,Spearow,https://pokemondb.net/pokedex/spearow,"['Normal', 'Flying']",0.0,[],[],30.0
+63,Pidgeotto,https://pokemondb.net/pokedex/pidgeotto,"['Normal', 'Flying']",0.0,[],[],110.00000000000001
+55,Raticate,https://pokemondb.net/pokedex/raticate,['Normal'],0.0,[],[],70.0
+65,Fearow,https://pokemondb.net/pokedex/fearow,"['Normal', 'Flying']",0.0,[],[],120.0
+30,Rattata,https://pokemondb.net/pokedex/rattata,['Normal'],0.0,[],[],30.0
+83,Pidgeot,https://pokemondb.net/pokedex/pidgeot,"['Normal', 'Flying']",0.0,[],[],150.0
+80,Victreebel,https://pokemondb.net/pokedex/victreebel,"['Grass', 'Poison']",0.0,[],[],170.0
+30,Kabuto,https://pokemondb.net/pokedex/kabuto,"['Rock', 'Water']",0.0,[],[],50.0
+40,Pidgey,https://pokemondb.net/pokedex/pidgey,"['Normal', 'Flying']",0.0,[],[],30.0
+70,Omastar,https://pokemondb.net/pokedex/omastar,"['Rock', 'Water']",0.0,[],[],100.0
+65,Porygon,https://pokemondb.net/pokedex/porygon,['Normal'],0.0,[],[],80.0
+44,Squirtle,https://pokemondb.net/pokedex/squirtle,['Water'],0.0,[],[],50.0
+65,Flareon,https://pokemondb.net/pokedex/flareon,['Fire'],0.0,[],[],90.0
+90,Moltres,https://pokemondb.net/pokedex/moltres,"['Fire', 'Flying']",0.0,[],[],200.0
+50,Cleffa,https://pokemondb.net/pokedex/cleffa,['Fairy'],0.0,[],[],30.0
+70,Marill,https://pokemondb.net/pokedex/marill,"['Water', 'Fairy']",0.0,[],[],40.0
+55,Mareep,https://pokemondb.net/pokedex/mareep,['Electric'],0.0,[],[],60.0
+90,Ampharos,https://pokemondb.net/pokedex/ampharos,['Electric'],0.0,[],[],140.0
+35,Omanyte,https://pokemondb.net/pokedex/omanyte,"['Rock', 'Water']",0.0,[],[],40.0
+75,Bellossom,https://pokemondb.net/pokedex/bellossom,['Grass'],0.0,[],[],40.0
+70,Flaaffy,https://pokemondb.net/pokedex/flaaffy,['Electric'],0.0,[],[],80.0
+65,Xatu,https://pokemondb.net/pokedex/xatu,"['Psychic', 'Flying']",0.0,[],[],150.0
+65,Corsola,https://pokemondb.net/pokedex/corsola,"['Water', 'Rock']",0.0,[],[],60.0
+100,Piloswine,https://pokemondb.net/pokedex/piloswine,"['Ice', 'Ground']",0.0,[],[],110.00000000000001
+40,Slugma,https://pokemondb.net/pokedex/slugma,['Fire'],0.0,[],[],70.0
+50,Swinub,https://pokemondb.net/pokedex/swinub,"['Ice', 'Ground']",0.0,[],[],40.0
+60,Magcargo,https://pokemondb.net/pokedex/magcargo,"['Fire', 'Rock']",0.0,[],[],80.0
+60,Teddiursa,https://pokemondb.net/pokedex/teddiursa,['Normal'],0.0,[],[],60.0
+90,Ursaring,https://pokemondb.net/pokedex/ursaring,['Normal'],0.0,[],[],180.0
+70,Pupitar,https://pokemondb.net/pokedex/pupitar,"['Rock', 'Ground']",0.0,[],[],120.0
+100,Suicune,https://pokemondb.net/pokedex/suicune,['Water'],0.0,[],[],200.0
+115,Entei,https://pokemondb.net/pokedex/entei,['Fire'],0.0,[],[],210.0
+90,Raikou,https://pokemondb.net/pokedex/raikou,['Electric'],0.0,[],[],190.0
+255,Blissey,https://pokemondb.net/pokedex/blissey,['Normal'],0.0,[],[],150.0
+95,Miltank,https://pokemondb.net/pokedex/miltank,['Normal'],0.0,[],[],120.0
+50,Larvitar,https://pokemondb.net/pokedex/larvitar,"['Rock', 'Ground']",0.0,[],[],60.0
+60,Breloom,https://pokemondb.net/pokedex/breloom,"['Grass', 'Fighting']",0.0,[],[],120.0
+60,Shroomish,https://pokemondb.net/pokedex/shroomish,['Grass'],0.0,[],[],40.0
+70,Masquerain,https://pokemondb.net/pokedex/masquerain,"['Bug', 'Flying']",0.0,[],[],80.0
+28,Ralts,https://pokemondb.net/pokedex/ralts,"['Psychic', 'Fairy']",0.0,[],[],40.0
+40,Surskit,https://pokemondb.net/pokedex/surskit,"['Bug', 'Water']",0.0,[],[],50.0
+68,Gardevoir,https://pokemondb.net/pokedex/gardevoir,"['Psychic', 'Fairy']",0.0,[],[],160.0
+38,Kirlia,https://pokemondb.net/pokedex/kirlia,"['Psychic', 'Fairy']",0.0,[],[],80.0
+45,Magby,https://pokemondb.net/pokedex/magby,['Fire'],0.0,[],[],70.0
+60,Pelipper,https://pokemondb.net/pokedex/pelipper,"['Water', 'Flying']",0.0,[],[],120.0
+70,Manectric,https://pokemondb.net/pokedex/manectric,['Electric'],0.0,[],[],150.0
+40,Electrike,https://pokemondb.net/pokedex/electrike,['Electric'],0.0,[],[],60.0
+60,Medicham,https://pokemondb.net/pokedex/medicham,"['Fighting', 'Psychic']",0.0,[],[],130.0
+30,Meditite,https://pokemondb.net/pokedex/meditite,"['Fighting', 'Psychic']",0.0,[],[],60.0
+70,Aggron,https://pokemondb.net/pokedex/aggron,"['Steel', 'Rock']",0.0,[],[],210.0
+60,Plusle,https://pokemondb.net/pokedex/plusle,['Electric'],0.0,[],[],40.0
+60,Lairon,https://pokemondb.net/pokedex/lairon,"['Steel', 'Rock']",0.0,[],[],90.0
+70,Spheal,https://pokemondb.net/pokedex/spheal,"['Ice', 'Water']",0.0,[],[],80.0
+99,Tropius,https://pokemondb.net/pokedex/tropius,"['Grass', 'Flying']",0.0,[],[],200.0
+80,Glalie,https://pokemondb.net/pokedex/glalie,['Ice'],0.0,[],[],150.0
+50,Snorunt,https://pokemondb.net/pokedex/snorunt,['Ice'],0.0,[],[],70.0
+95,Wynaut,https://pokemondb.net/pokedex/wynaut,['Psychic'],0.0,[],[],60.0
+65,Absol,https://pokemondb.net/pokedex/absol,['Dark'],0.0,[],[],120.0
+75,Chimecho,https://pokemondb.net/pokedex/chimecho,['Psychic'],0.0,[],[],60.0
+40,Dusclops,https://pokemondb.net/pokedex/dusclops,['Ghost'],0.0,[],[],160.0
+95,Salamence,https://pokemondb.net/pokedex/salamence,"['Dragon', 'Flying']",0.0,[],[],150.0
+45,Bagon,https://pokemondb.net/pokedex/bagon,['Dragon'],0.0,[],[],60.0
+43,Luvdisc,https://pokemondb.net/pokedex/luvdisc,['Water'],0.0,[],[],60.0
+100,Relicanth,https://pokemondb.net/pokedex/relicanth,"['Water', 'Rock']",0.0,[],[],100.0
+55,Gorebyss,https://pokemondb.net/pokedex/gorebyss,['Water'],0.0,[],[],180.0
+100,Groudon,https://pokemondb.net/pokedex/groudon,['Ground'],0.0,[],[],350.0
+65,Shelgon,https://pokemondb.net/pokedex/shelgon,['Dragon'],0.0,[],[],110.00000000000001
+55,Huntail,https://pokemondb.net/pokedex/huntail,['Water'],0.0,[],[],170.0
+60,Roserade,https://pokemondb.net/pokedex/roserade,"['Grass', 'Poison']",0.0,[],[],90.0
+80,Luxray,https://pokemondb.net/pokedex/luxray,['Electric'],0.0,[],[],140.0
+60,Luxio,https://pokemondb.net/pokedex/luxio,['Electric'],0.0,[],[],90.0
+77,Kricketune,https://pokemondb.net/pokedex/kricketune,['Bug'],0.0,[],[],100.0
+37,Kricketot,https://pokemondb.net/pokedex/kricketot,['Bug'],0.0,[],[],30.0
+40,Budew,https://pokemondb.net/pokedex/budew,"['Grass', 'Poison']",0.0,[],[],20.0
+45,Shinx,https://pokemondb.net/pokedex/shinx,['Electric'],0.0,[],[],50.0
+100,Happiny,https://pokemondb.net/pokedex/happiny,['Normal'],0.0,[],[],60.0
+20,Mime Jr.,https://pokemondb.net/pokedex/mime-jr,"['Psychic', 'Fairy']",0.0,[],[],60.0
+79,Bibarel,https://pokemondb.net/pokedex/bibarel,"['Normal', 'Water']",0.0,[],[],100.0
+50,Bonsly,https://pokemondb.net/pokedex/bonsly,['Rock'],0.0,[],[],50.0
+67,Bronzong,https://pokemondb.net/pokedex/bronzong,"['Steel', 'Psychic']",0.0,[],[],130.0
+76,Chatot,https://pokemondb.net/pokedex/chatot,"['Normal', 'Flying']",0.0,[],[],50.0
+57,Bronzor,https://pokemondb.net/pokedex/bronzor,"['Steel', 'Psychic']",0.0,[],[],50.0
+103,Skuntank,https://pokemondb.net/pokedex/skuntank,"['Poison', 'Dark']",0.0,[],[],100.0
+40,Riolu,https://pokemondb.net/pokedex/riolu,['Fighting'],0.0,[],[],70.0
+70,Froslass,https://pokemondb.net/pokedex/froslass,"['Ice', 'Ghost']",0.0,[],[],130.0
+45,Dusknoir,https://pokemondb.net/pokedex/dusknoir,['Ghost'],0.0,[],[],220.00000000000003
+60,Probopass,https://pokemondb.net/pokedex/probopass,"['Rock', 'Steel']",0.0,[],[],140.0
+68,Gallade,https://pokemondb.net/pokedex/gallade,"['Psychic', 'Fighting']",0.0,[],[],160.0
+85,Porygon-Z,https://pokemondb.net/pokedex/porygon-z,['Normal'],0.0,[],[],90.0
+75,Simipour,https://pokemondb.net/pokedex/simipour,['Water'],0.0,[],[],100.0
+76,Munna,https://pokemondb.net/pokedex/munna,['Psychic'],0.0,[],[],60.0
+50,Pansear,https://pokemondb.net/pokedex/pansear,['Fire'],0.0,[],[],60.0
+75,Simisear,https://pokemondb.net/pokedex/simisear,['Fire'],0.0,[],[],100.0
+50,Pansage,https://pokemondb.net/pokedex/pansage,['Grass'],0.0,[],[],60.0
+75,Simisage,https://pokemondb.net/pokedex/simisage,['Grass'],0.0,[],[],110.00000000000001
+60,Drilbur,https://pokemondb.net/pokedex/drilbur,['Ground'],0.0,[],[],30.0
+105,Darmanitan,https://pokemondb.net/pokedex/darmanitan,['Fire'],0.0,[],[],130.0
+50,Panpour,https://pokemondb.net/pokedex/panpour,['Water'],0.0,[],[],60.0
+70,Basculin,https://pokemondb.net/pokedex/basculin,['Water'],0.0,[],[],100.0
+95,Krookodile,https://pokemondb.net/pokedex/krookodile,"['Ground', 'Dark']",0.0,[],[],150.0
+60,Krokorok,https://pokemondb.net/pokedex/krokorok,"['Ground', 'Dark']",0.0,[],[],100.0
+50,Sandile,https://pokemondb.net/pokedex/sandile,"['Ground', 'Dark']",0.0,[],[],70.0
+70,Darumaka,https://pokemondb.net/pokedex/darumaka,['Fire'],0.0,[],[],60.0
+70,Lilligant,https://pokemondb.net/pokedex/lilligant,['Grass'],0.0,[],[],110.00000000000001
+51,Vanillish,https://pokemondb.net/pokedex/vanillish,['Ice'],0.0,[],[],110.00000000000001
+36,Vanillite,https://pokemondb.net/pokedex/vanillite,['Ice'],0.0,[],[],40.0
+75,Swanna,https://pokemondb.net/pokedex/swanna,"['Water', 'Flying']",0.0,[],[],130.0
+62,Ducklett,https://pokemondb.net/pokedex/ducklett,"['Water', 'Flying']",0.0,[],[],50.0
+110,Reuniclus,https://pokemondb.net/pokedex/reuniclus,['Psychic'],0.0,[],[],100.0
+65,Duosion,https://pokemondb.net/pokedex/duosion,['Psychic'],0.0,[],[],60.0
+45,Solosis,https://pokemondb.net/pokedex/solosis,['Psychic'],0.0,[],[],30.0
+77,Druddigon,https://pokemondb.net/pokedex/druddigon,['Dragon'],0.0,[],[],160.0
+50,Shelmet,https://pokemondb.net/pokedex/shelmet,['Bug'],0.0,[],[],40.0
+80,Accelgor,https://pokemondb.net/pokedex/accelgor,['Bug'],0.0,[],[],80.0
+80,Cryogonal,https://pokemondb.net/pokedex/cryogonal,['Ice'],0.0,[],[],110.00000000000001
+109,Stunfisk,https://pokemondb.net/pokedex/stunfisk,"['Ground', 'Electric']",0.0,[],[],70.0
+95,Beartic,https://pokemondb.net/pokedex/beartic,['Ice'],0.0,[],[],260.0
+65,Mienshao,https://pokemondb.net/pokedex/mienshao,['Fighting'],0.0,[],[],140.0
+89,Landorus,https://pokemondb.net/pokedex/landorus,"['Ground', 'Flying']",0.0,[],[],150.0
+45,Mienfoo,https://pokemondb.net/pokedex/mienfoo,['Fighting'],0.0,[],[],90.0
+100,Reshiram,https://pokemondb.net/pokedex/reshiram,"['Dragon', 'Fire']",0.0,[],[],320.0
+100,Zekrom,https://pokemondb.net/pokedex/zekrom,"['Dragon', 'Electric']",0.0,[],[],290.0
+79,Thundurus,https://pokemondb.net/pokedex/thundurus,"['Electric', 'Flying']",0.0,[],[],150.0
+79,Tornadus,https://pokemondb.net/pokedex/tornadus,['Flying'],0.0,[],[],150.0
+91,Terrakion,https://pokemondb.net/pokedex/terrakion,"['Rock', 'Fighting']",0.0,[],[],190.0
+91,Cobalion,https://pokemondb.net/pokedex/cobalion,"['Steel', 'Fighting']",0.0,[],[],210.0
+45,Spewpa,https://pokemondb.net/pokedex/spewpa,['Bug'],0.0,[],[],30.0
+54,Floette,https://pokemondb.net/pokedex/floette,['Fairy'],0.0,[],[],20.0
+44,Flabébé,https://pokemondb.net/pokedex/flabebe,['Fairy'],0.0,[],[],10.0
+86,Pyroar,https://pokemondb.net/pokedex/pyroar,"['Fire', 'Normal']",0.0,[],[],150.0
+62,Litleo,https://pokemondb.net/pokedex/litleo,"['Fire', 'Normal']",0.0,[],[],60.0
+80,Vivillon,https://pokemondb.net/pokedex/vivillon,"['Bug', 'Flying']",0.0,[],[],120.0
+91,Virizion,https://pokemondb.net/pokedex/virizion,"['Grass', 'Fighting']",0.0,[],[],200.0
+38,Scatterbug,https://pokemondb.net/pokedex/scatterbug,['Bug'],0.0,[],[],30.0
+71,Clawitzer,https://pokemondb.net/pokedex/clawitzer,['Water'],0.0,[],[],130.0
+50,Clauncher,https://pokemondb.net/pokedex/clauncher,['Water'],0.0,[],[],50.0
+50,Skrelp,https://pokemondb.net/pokedex/skrelp,"['Poison', 'Water']",0.0,[],[],50.0
+72,Barbaracle,https://pokemondb.net/pokedex/barbaracle,"['Rock', 'Water']",0.0,[],[],130.0
+44,Helioptile,https://pokemondb.net/pokedex/helioptile,"['Electric', 'Normal']",0.0,[],[],50.0
+42,Binacle,https://pokemondb.net/pokedex/binacle,"['Rock', 'Water']",0.0,[],[],50.0
+35,Pikipek,https://pokemondb.net/pokedex/pikipek,"['Normal', 'Flying']",0.0,[],[],30.0
+80,Primarina,https://pokemondb.net/pokedex/primarina,"['Water', 'Fairy']",0.0,[],[],180.0
+60,Brionne,https://pokemondb.net/pokedex/brionne,['Water'],0.0,[],[],60.0
+50,Popplio,https://pokemondb.net/pokedex/popplio,['Water'],0.0,[],[],40.0
+95,Incineroar,https://pokemondb.net/pokedex/incineroar,"['Fire', 'Dark']",0.0,[],[],180.0
+65,Dragalge,https://pokemondb.net/pokedex/dragalge,"['Poison', 'Dragon']",0.0,[],[],180.0
+78,Decidueye,https://pokemondb.net/pokedex/decidueye,"['Grass', 'Ghost']",0.0,[],[],160.0
+68,Salazzle,https://pokemondb.net/pokedex/salazzle,"['Poison', 'Fire']",0.0,[],[],120.0
+48,Salandit,https://pokemondb.net/pokedex/salandit,"['Poison', 'Fire']",0.0,[],[],60.0
+40,Morelull,https://pokemondb.net/pokedex/morelull,"['Grass', 'Fairy']",0.0,[],[],20.0
+60,Shiinotic,https://pokemondb.net/pokedex/shiinotic,"['Grass', 'Fairy']",0.0,[],[],100.0
+45,Litten,https://pokemondb.net/pokedex/litten,['Fire'],0.0,[],[],40.0
+70,Lurantis,https://pokemondb.net/pokedex/lurantis,['Grass'],0.0,[],[],90.0
+40,Fomantis,https://pokemondb.net/pokedex/fomantis,['Grass'],0.0,[],[],30.0
+65,Torracat,https://pokemondb.net/pokedex/torracat,['Fire'],0.0,[],[],70.0
+71,Pheromosa,https://pokemondb.net/pokedex/pheromosa,"['Bug', 'Fighting']",0.0,[],[],180.0
+73,Naganadel,https://pokemondb.net/pokedex/naganadel,"['Poison', 'Dragon']",0.0,[],[],360.0
+67,Poipole,https://pokemondb.net/pokedex/poipole,['Poison'],0.0,[],[],60.0
+61,Stakataka,https://pokemondb.net/pokedex/stakataka,"['Rock', 'Steel']",0.0,[],[],550.0
+90,Marshadow,https://pokemondb.net/pokedex/marshadow,"['Fighting', 'Ghost']",0.0,[],[],70.0
+80,Magearna,https://pokemondb.net/pokedex/magearna,"['Steel', 'Fairy']",0.0,[],[],100.0
+97,Necrozma,https://pokemondb.net/pokedex/necrozma,['Psychic'],0.0,[],[],240.0
+72,Dubwool,https://pokemondb.net/pokedex/dubwool,['Normal'],0.0,[],[],130.0
+60,Eldegoss,https://pokemondb.net/pokedex/eldegoss,['Grass'],0.0,[],[],50.0
+42,Wooloo,https://pokemondb.net/pokedex/wooloo,['Normal'],0.0,[],[],60.0
+70,Thievul,https://pokemondb.net/pokedex/thievul,['Dark'],0.0,[],[],120.0
+40,Gossifleur,https://pokemondb.net/pokedex/gossifleur,['Grass'],0.0,[],[],40.0
+40,Nickit,https://pokemondb.net/pokedex/nickit,['Dark'],0.0,[],[],60.0
+60,Orbeetle,https://pokemondb.net/pokedex/orbeetle,"['Bug', 'Psychic']",0.0,[],[],40.0
+90,Dracovish,https://pokemondb.net/pokedex/dracovish,"['Water', 'Dragon']",0.0,[],[],229.99999999999997
+58,Morpeko,https://pokemondb.net/pokedex/morpeko,"['Electric', 'Dark']",0.0,[],[],30.0
+122,Copperajah,https://pokemondb.net/pokedex/copperajah,['Steel'],0.0,[],[],300.0
+72,Cufant,https://pokemondb.net/pokedex/cufant,['Steel'],0.0,[],[],120.0
+60,Indeedee,https://pokemondb.net/pokedex/indeedee,"['Psychic', 'Normal']",0.0,[],[],90.0
+75,Eiscue,https://pokemondb.net/pokedex/eiscue,['Ice'],0.0,[],[],140.0
+90,Arctozolt,https://pokemondb.net/pokedex/arctozolt,"['Electric', 'Ice']",0.0,[],[],229.99999999999997
+90,Dracozolt,https://pokemondb.net/pokedex/dracozolt,"['Electric', 'Dragon']",0.0,[],[],180.0
+67,Fuecoco,https://pokemondb.net/pokedex/fuecoco,['Fire'],0.0,[],[],40.0
+76,Meowscarada,https://pokemondb.net/pokedex/meowscarada,"['Grass', 'Dark']",0.0,[],[],150.0
+61,Floragato,https://pokemondb.net/pokedex/floragato,['Grass'],0.0,[],[],90.0
+74,Enamorus,https://pokemondb.net/pokedex/enamorus,"['Fairy', 'Flying']",0.0,[],[],160.0
+40,Sprigatito,https://pokemondb.net/pokedex/sprigatito,['Grass'],0.0,[],[],40.0
+85,Overqwil,https://pokemondb.net/pokedex/overqwil,"['Dark', 'Poison']",0.0,[],[],250.0
+81,Crocalor,https://pokemondb.net/pokedex/crocalor,['Fire'],0.0,[],[],100.0
+45,Pawmi,https://pokemondb.net/pokedex/pawmi,['Electric'],0.0,[],[],30.0
+60,Spidops,https://pokemondb.net/pokedex/spidops,['Bug'],0.0,[],[],100.0
+35,Tarountula,https://pokemondb.net/pokedex/tarountula,['Bug'],0.0,[],[],30.0
+71,Lokix,https://pokemondb.net/pokedex/lokix,"['Bug', 'Dark']",0.0,[],[],100.0
+33,Nymble,https://pokemondb.net/pokedex/nymble,['Bug'],0.0,[],[],20.0
+110,Oinkologne,https://pokemondb.net/pokedex/oinkologne,['Normal'],0.0,[],[],100.0
+54,Lechonk,https://pokemondb.net/pokedex/lechonk,['Normal'],0.0,[],[],50.0
+50,Capsakid,https://pokemondb.net/pokedex/capsakid,['Grass'],0.0,[],[],30.0
+75,Rabsca,https://pokemondb.net/pokedex/rabsca,"['Bug', 'Psychic']",0.0,[],[],30.0
+80,Sneasler,https://pokemondb.net/pokedex/sneasler,"['Fighting', 'Poison']",0.0,[],[],130.0
+30,Flittle,https://pokemondb.net/pokedex/flittle,['Psychic'],0.0,[],[],20.0
+95,Espathra,https://pokemondb.net/pokedex/espathra,['Psychic'],0.0,[],[],190.0
+41,Rellor,https://pokemondb.net/pokedex/rellor,['Bug'],0.0,[],[],20.0
+65,Scovillain,https://pokemondb.net/pokedex/scovillain,"['Grass', 'Fire']",0.0,[],[],90.0
+70,Klawf,https://pokemondb.net/pokedex/klawf,['Rock'],0.0,[],[],130.0
+99,Walking Wake,https://pokemondb.net/pokedex/walking-wake,"['Water', 'Dragon']",0.0,[],[],350.0
+100,Miraidon,https://pokemondb.net/pokedex/miraidon,"['Electric', 'Dragon']",0.0,[],[],350.0
+74,Iron Valiant,https://pokemondb.net/pokedex/iron-valiant,"['Fairy', 'Fighting']",0.0,[],[],140.0
+100,Koraidon,https://pokemondb.net/pokedex/koraidon,"['Fighting', 'Dragon']",0.0,[],[],250.0
+105,Roaring Moon,https://pokemondb.net/pokedex/roaring-moon,"['Dragon', 'Dark']",0.0,[],[],200.0
+55,Chi-Yu,https://pokemondb.net/pokedex/chi-yu,"['Dark', 'Fire']",0.0,[],[],40.0
+155,Ting-Lu,https://pokemondb.net/pokedex/ting-lu,"['Dark', 'Ground']",0.0,[],[],270.0
+88,Pecharunt,https://pokemondb.net/pokedex/pecharunt,"['Poison', 'Ghost']",0.0,[],[],30.0
+90,Terapagos,https://pokemondb.net/pokedex/terapagos,['Normal'],0.0,[],[],20.0
+90,Iron Crown,https://pokemondb.net/pokedex/iron-crown,"['Steel', 'Psychic']",0.0,[],[],160.0
+125,Raging Bolt,https://pokemondb.net/pokedex/raging-bolt,"['Electric', 'Dragon']",0.0,[],[],520.0
+90,Iron Boulder,https://pokemondb.net/pokedex/iron-boulder,"['Rock', 'Psychic']",0.0,[],[],150.0
+105,Gouging Fire,https://pokemondb.net/pokedex/gouging-fire,"['Fire', 'Dragon']",0.0,[],[],350.0
+106,Hydrapple,https://pokemondb.net/pokedex/hydrapple,"['Grass', 'Dragon']",0.0,[],[],180.0
+90,Archaludon,https://pokemondb.net/pokedex/archaludon,"['Steel', 'Dragon']",0.0,[],[],200.0
+80,Ogerpon,https://pokemondb.net/pokedex/ogerpon,['Grass'],0.0,[],[],120.0
+88,Fezandipiti,https://pokemondb.net/pokedex/fezandipiti,"['Poison', 'Fairy']",0.0,[],[],140.0
+88,Munkidori,https://pokemondb.net/pokedex/munkidori,"['Poison', 'Psychic']",0.0,[],[],100.0
+71,Sinistcha,https://pokemondb.net/pokedex/sinistcha,"['Grass', 'Ghost']",0.0,[],[],20.0
+40,Poltchageist,https://pokemondb.net/pokedex/poltchageist,"['Grass', 'Ghost']",0.0,[],[],10.0
+88,Okidogi,https://pokemondb.net/pokedex/okidogi,"['Poison', 'Fighting']",0.0,[],[],180.0
+80,Dipplin,https://pokemondb.net/pokedex/dipplin,"['Grass', 'Dragon']",0.0,[],[],40.0
+90,Iron Leaves,https://pokemondb.net/pokedex/iron-leaves,"['Grass', 'Psychic']",0.0,[],[],150.0
+80,Chien-Pao,https://pokemondb.net/pokedex/chien-pao,"['Dark', 'Ice']",0.0,[],[],190.0
+85,Wo-Chien,https://pokemondb.net/pokedex/wo-chien,"['Dark', 'Grass']",0.0,[],[],150.0
+87,Gholdengo,https://pokemondb.net/pokedex/gholdengo,"['Steel', 'Ghost']",0.0,[],[],120.0
+45,Gimmighoul,https://pokemondb.net/pokedex/gimmighoul,['Ghost'],0.0,[],[],30.0
+115,Baxcalibur,https://pokemondb.net/pokedex/baxcalibur,"['Dragon', 'Ice']",0.0,[],[],210.0
+90,Arctibax,https://pokemondb.net/pokedex/arctibax,"['Dragon', 'Ice']",0.0,[],[],80.0
+65,Frigibax,https://pokemondb.net/pokedex/frigibax,"['Dragon', 'Ice']",0.0,[],[],50.0
+100,Iron Thorns,https://pokemondb.net/pokedex/iron-thorns,"['Rock', 'Electric']",0.0,[],[],160.0
+80,Iron Moth,https://pokemondb.net/pokedex/iron-moth,"['Fire', 'Poison']",0.0,[],[],120.0
+94,Iron Jugulis,https://pokemondb.net/pokedex/iron-jugulis,"['Dark', 'Flying']",0.0,[],[],130.0
+154,Iron Hands,https://pokemondb.net/pokedex/iron-hands,"['Fighting', 'Electric']",0.0,[],[],180.0
+56,Iron Bundle,https://pokemondb.net/pokedex/iron-bundle,"['Ice', 'Water']",0.0,[],[],60.0
+90,Iron Treads,https://pokemondb.net/pokedex/iron-treads,"['Ground', 'Steel']",0.0,[],[],90.0
+85,Sandy Shocks,https://pokemondb.net/pokedex/sandy-shocks,"['Electric', 'Ground']",0.0,[],[],229.99999999999997
+85,Slither Wing,https://pokemondb.net/pokedex/slither-wing,"['Bug', 'Fighting']",0.0,[],[],320.0
+55,Flutter Mane,https://pokemondb.net/pokedex/flutter-mane,"['Ghost', 'Fairy']",0.0,[],[],140.0
+111,Brute Bonnet,https://pokemondb.net/pokedex/brute-bonnet,"['Grass', 'Dark']",0.0,[],[],120.0
+115,Scream Tail,https://pokemondb.net/pokedex/scream-tail,"['Fairy', 'Psychic']",0.0,[],[],120.0
+115,Great Tusk,https://pokemondb.net/pokedex/great-tusk,"['Ground', 'Fighting']",0.0,[],[],220.00000000000003
+100,Kingambit,https://pokemondb.net/pokedex/kingambit,"['Dark', 'Steel']",0.0,[],[],200.0
+125,Dudunsparce,https://pokemondb.net/pokedex/dudunsparce,['Normal'],0.0,[],[],360.0
+120,Farigiraf,https://pokemondb.net/pokedex/farigiraf,"['Normal', 'Psychic']",0.0,[],[],320.0
+130,Clodsire,https://pokemondb.net/pokedex/clodsire,"['Poison', 'Ground']",0.0,[],[],180.0
+110,Annihilape,https://pokemondb.net/pokedex/annihilape,"['Fighting', 'Ghost']",0.0,[],[],120.0
+68,Tatsugiri,https://pokemondb.net/pokedex/tatsugiri,"['Dragon', 'Water']",0.0,[],[],30.0
+150,Dondozo,https://pokemondb.net/pokedex/dondozo,['Water'],0.0,[],[],1200.0
+90,Veluza,https://pokemondb.net/pokedex/veluza,"['Water', 'Psychic']",0.0,[],[],250.0
+170,Cetitan,https://pokemondb.net/pokedex/cetitan,['Ice'],0.0,[],[],450.0
+72,Houndstone,https://pokemondb.net/pokedex/houndstone,['Ghost'],0.0,[],[],200.0
+50,Greavard,https://pokemondb.net/pokedex/greavard,['Ghost'],0.0,[],[],60.0
+108,Cetoddle,https://pokemondb.net/pokedex/cetoddle,['Ice'],0.0,[],[],120.0
+82,Flamigo,https://pokemondb.net/pokedex/flamigo,"['Flying', 'Fighting']",0.0,[],[],160.0
+83,Glimmora,https://pokemondb.net/pokedex/glimmora,"['Rock', 'Poison']",0.0,[],[],150.0
+45,Varoom,https://pokemondb.net/pokedex/varoom,"['Steel', 'Poison']",0.0,[],[],100.0
+70,Cyclizar,https://pokemondb.net/pokedex/cyclizar,"['Dragon', 'Normal']",0.0,[],[],160.0
+80,Revavroom,https://pokemondb.net/pokedex/revavroom,"['Steel', 'Poison']",0.0,[],[],180.0
+70,Finizen,https://pokemondb.net/pokedex/finizen,['Water'],0.0,[],[],130.0
+48,Glimmet,https://pokemondb.net/pokedex/glimmet,"['Rock', 'Poison']",0.0,[],[],70.0
+85,Tinkaton,https://pokemondb.net/pokedex/tinkaton,"['Fairy', 'Steel']",0.0,[],[],70.0
+10,Wiglett,https://pokemondb.net/pokedex/wiglett,['Water'],0.0,[],[],120.0
+65,Tinkatuff,https://pokemondb.net/pokedex/tinkatuff,"['Fairy', 'Steel']",0.0,[],[],70.0
+35,Wugtrio,https://pokemondb.net/pokedex/wugtrio,['Water'],0.0,[],[],120.0
+70,Orthworm,https://pokemondb.net/pokedex/orthworm,['Steel'],0.0,[],[],250.0
+70,Bombirdier,https://pokemondb.net/pokedex/bombirdier,"['Flying', 'Dark']",0.0,[],[],150.0
+80,Toedscruel,https://pokemondb.net/pokedex/toedscruel,"['Ground', 'Grass']",0.0,[],[],190.0
+100,Palafin,https://pokemondb.net/pokedex/palafin,['Water'],0.0,[],[],130.0
+40,Toedscool,https://pokemondb.net/pokedex/toedscool,"['Ground', 'Grass']",0.0,[],[],90.0
+40,Shroodle,https://pokemondb.net/pokedex/shroodle,"['Poison', 'Normal']",0.0,[],[],20.0
+55,Brambleghast,https://pokemondb.net/pokedex/brambleghast,"['Grass', 'Ghost']",0.0,[],[],120.0
+40,Bramblin,https://pokemondb.net/pokedex/bramblin,"['Grass', 'Ghost']",0.0,[],[],60.0
+50,Tinkatink,https://pokemondb.net/pokedex/tinkatink,"['Fairy', 'Steel']",0.0,[],[],40.0
+80,Mabosstiff,https://pokemondb.net/pokedex/mabosstiff,['Dark'],0.0,[],[],110.00000000000001
+85,Armarouge,https://pokemondb.net/pokedex/armarouge,"['Fire', 'Psychic']",0.0,[],[],150.0
+40,Wattrel,https://pokemondb.net/pokedex/wattrel,"['Electric', 'Flying']",0.0,[],[],40.0
+109,Bellibolt,https://pokemondb.net/pokedex/bellibolt,['Electric'],0.0,[],[],120.0
+61,Tadbulb,https://pokemondb.net/pokedex/tadbulb,['Electric'],0.0,[],[],30.0
+70,Kilowattrel,https://pokemondb.net/pokedex/kilowattrel,"['Electric', 'Flying']",0.0,[],[],140.0
+75,Ceruledge,https://pokemondb.net/pokedex/ceruledge,"['Fire', 'Ghost']",0.0,[],[],160.0
+60,Maschiff,https://pokemondb.net/pokedex/maschiff,['Dark'],0.0,[],[],50.0
+63,Grafaiai,https://pokemondb.net/pokedex/grafaiai,"['Poison', 'Normal']",0.0,[],[],70.0
+100,Garganacl,https://pokemondb.net/pokedex/garganacl,['Rock'],0.0,[],[],229.99999999999997
+40,Charcadet,https://pokemondb.net/pokedex/charcadet,['Fire'],0.0,[],[],60.0
+60,Naclstack,https://pokemondb.net/pokedex/naclstack,['Rock'],0.0,[],[],60.0
+52,Dolliv,https://pokemondb.net/pokedex/dolliv,"['Grass', 'Normal']",0.0,[],[],60.0
+55,Nacli,https://pokemondb.net/pokedex/nacli,['Rock'],0.0,[],[],40.0
+82,Squawkabilly,https://pokemondb.net/pokedex/squawkabilly,"['Normal', 'Flying']",0.0,[],[],60.0
+41,Smoliv,https://pokemondb.net/pokedex/smoliv,"['Grass', 'Normal']",0.0,[],[],30.0
+57,Dachsbun,https://pokemondb.net/pokedex/dachsbun,['Fairy'],0.0,[],[],50.0
+37,Fidough,https://pokemondb.net/pokedex/fidough,['Fairy'],0.0,[],[],30.0
+74,Maushold,https://pokemondb.net/pokedex/maushold,['Normal'],0.0,[],[],30.0
+50,Tandemaus,https://pokemondb.net/pokedex/tandemaus,['Normal'],0.0,[],[],30.0
+70,Pawmot,https://pokemondb.net/pokedex/pawmot,"['Electric', 'Fighting']",0.0,[],[],90.0
+60,Pawmo,https://pokemondb.net/pokedex/pawmo,"['Electric', 'Fighting']",0.0,[],[],40.0
+78,Arboliva,https://pokemondb.net/pokedex/arboliva,"['Grass', 'Normal']",0.0,[],[],140.0
+85,Quaquaval,https://pokemondb.net/pokedex/quaquaval,"['Water', 'Fighting']",0.0,[],[],180.0
+70,Quaxwell,https://pokemondb.net/pokedex/quaxwell,['Water'],0.0,[],[],120.0
+55,Quaxly,https://pokemondb.net/pokedex/quaxly,['Water'],0.0,[],[],50.0
+130,Ursaluna,https://pokemondb.net/pokedex/ursaluna,"['Ground', 'Normal']",0.0,[],[],240.0
+103,Wyrdeer,https://pokemondb.net/pokedex/wyrdeer,"['Normal', 'Psychic']",0.0,[],[],180.0
+104,Skeledirge,https://pokemondb.net/pokedex/skeledirge,"['Fire', 'Ghost']",0.0,[],[],160.0
+70,Kleavor,https://pokemondb.net/pokedex/kleavor,"['Bug', 'Rock']",0.0,[],[],180.0
+100,Spectrier,https://pokemondb.net/pokedex/spectrier,['Ghost'],0.0,[],[],200.0
+100,Calyrex,https://pokemondb.net/pokedex/calyrex,"['Psychic', 'Grass']",0.0,[],[],110.00000000000001
+100,Glastrier,https://pokemondb.net/pokedex/glastrier,['Ice'],0.0,[],[],220.00000000000003
+120,Basculegion,https://pokemondb.net/pokedex/basculegion,"['Water', 'Ghost']",0.0,[],[],300.0
+200,Regidrago,https://pokemondb.net/pokedex/regidrago,['Dragon'],0.0,[],[],210.0
+80,Regieleki,https://pokemondb.net/pokedex/regieleki,['Electric'],0.0,[],[],120.0
+60,Kubfu,https://pokemondb.net/pokedex/kubfu,['Fighting'],0.0,[],[],60.0
+68,Drakloak,https://pokemondb.net/pokedex/drakloak,"['Dragon', 'Ghost']",0.0,[],[],140.0
+140,Eternatus,https://pokemondb.net/pokedex/eternatus,"['Poison', 'Dragon']",0.0,[],[],2000.0
+105,Zarude,https://pokemondb.net/pokedex/zarude,"['Dark', 'Grass']",0.0,[],[],180.0
+92,Zacian,https://pokemondb.net/pokedex/zacian,['Fairy'],0.0,[],[],280.0
+88,Dragapult,https://pokemondb.net/pokedex/dragapult,"['Dragon', 'Ghost']",0.0,[],[],300.0
+100,Urshifu,https://pokemondb.net/pokedex/urshifu,"['Fighting', 'Dark']",0.0,[],[],190.0
+92,Zamazenta,https://pokemondb.net/pokedex/zamazenta,['Fighting'],0.0,[],[],290.0
+28,Dreepy,https://pokemondb.net/pokedex/dreepy,"['Dragon', 'Ghost']",0.0,[],[],50.0
+70,Duraludon,https://pokemondb.net/pokedex/duraludon,"['Steel', 'Dragon']",0.0,[],[],180.0
+90,Arctovish,https://pokemondb.net/pokedex/arctovish,"['Water', 'Ice']",0.0,[],[],200.0
+100,Stonjourner,https://pokemondb.net/pokedex/stonjourner,['Rock'],0.0,[],[],250.0
+70,Frosmoth,https://pokemondb.net/pokedex/frosmoth,"['Ice', 'Bug']",0.0,[],[],130.0
+30,Snom,https://pokemondb.net/pokedex/snom,"['Ice', 'Bug']",0.0,[],[],30.0
+48,Pincurchin,https://pokemondb.net/pokedex/pincurchin,['Electric'],0.0,[],[],30.0
+65,Falinks,https://pokemondb.net/pokedex/falinks,['Fighting'],0.0,[],[],300.0
+58,Runerigus,https://pokemondb.net/pokedex/runerigus,"['Ground', 'Ghost']",0.0,[],[],160.0
+60,Cursola,https://pokemondb.net/pokedex/cursola,['Ghost'],0.0,[],[],100.0
+80,Mr. Rime,https://pokemondb.net/pokedex/mr-rime,"['Ice', 'Psychic']",0.0,[],[],150.0
+62,Sirfetch'd,https://pokemondb.net/pokedex/sirfetchd,['Fighting'],0.0,[],[],80.0
+70,Perrserker,https://pokemondb.net/pokedex/perrserker,['Steel'],0.0,[],[],80.0
+93,Obstagoon,https://pokemondb.net/pokedex/obstagoon,"['Dark', 'Normal']",0.0,[],[],160.0
+45,Milcery,https://pokemondb.net/pokedex/milcery,['Fairy'],0.0,[],[],20.0
+65,Alcremie,https://pokemondb.net/pokedex/alcremie,['Fairy'],0.0,[],[],30.0
+95,Grimmsnarl,https://pokemondb.net/pokedex/grimmsnarl,"['Dark', 'Fairy']",0.0,[],[],150.0
+65,Morgrem,https://pokemondb.net/pokedex/morgrem,"['Dark', 'Fairy']",0.0,[],[],80.0
+57,Hatterene,https://pokemondb.net/pokedex/hatterene,"['Psychic', 'Fairy']",0.0,[],[],210.0
+57,Hattrem,https://pokemondb.net/pokedex/hattrem,['Psychic'],0.0,[],[],60.0
+60,Polteageist,https://pokemondb.net/pokedex/polteageist,['Ghost'],0.0,[],[],20.0
+42,Hatenna,https://pokemondb.net/pokedex/hatenna,['Psychic'],0.0,[],[],40.0
+45,Impidimp,https://pokemondb.net/pokedex/impidimp,"['Dark', 'Fairy']",0.0,[],[],40.0
+40,Sinistea,https://pokemondb.net/pokedex/sinistea,['Ghost'],0.0,[],[],10.0
+50,Clobbopus,https://pokemondb.net/pokedex/clobbopus,['Fighting'],0.0,[],[],60.0
+100,Centiskorch,https://pokemondb.net/pokedex/centiskorch,"['Fire', 'Bug']",0.0,[],[],300.0
+50,Sizzlipede,https://pokemondb.net/pokedex/sizzlipede,"['Fire', 'Bug']",0.0,[],[],70.0
+75,Toxtricity,https://pokemondb.net/pokedex/toxtricity,"['Electric', 'Poison']",0.0,[],[],160.0
+40,Toxel,https://pokemondb.net/pokedex/toxel,"['Electric', 'Poison']",0.0,[],[],40.0
+41,Arrokuda,https://pokemondb.net/pokedex/arrokuda,['Water'],0.0,[],[],50.0
+70,Flapple,https://pokemondb.net/pokedex/flapple,"['Grass', 'Dragon']",0.0,[],[],30.0
+80,Grapploct,https://pokemondb.net/pokedex/grapploct,['Fighting'],0.0,[],[],160.0
+72,Sandaconda,https://pokemondb.net/pokedex/sandaconda,['Ground'],0.0,[],[],380.0
+61,Barraskewda,https://pokemondb.net/pokedex/barraskewda,['Water'],0.0,[],[],130.0
+70,Cramorant,https://pokemondb.net/pokedex/cramorant,"['Flying', 'Water']",0.0,[],[],80.0
+52,Silicobra,https://pokemondb.net/pokedex/silicobra,['Ground'],0.0,[],[],220.00000000000003
+110,Appletun,https://pokemondb.net/pokedex/appletun,"['Grass', 'Dragon']",0.0,[],[],40.0
+40,Applin,https://pokemondb.net/pokedex/applin,"['Grass', 'Dragon']",0.0,[],[],20.0
+80,Carkol,https://pokemondb.net/pokedex/carkol,"['Rock', 'Fire']",0.0,[],[],110.00000000000001
+30,Rolycoly,https://pokemondb.net/pokedex/rolycoly,['Rock'],0.0,[],[],30.0
+69,Boltund,https://pokemondb.net/pokedex/boltund,['Electric'],0.0,[],[],100.0
+90,Drednaw,https://pokemondb.net/pokedex/drednaw,"['Water', 'Rock']",0.0,[],[],100.0
+50,Chewtle,https://pokemondb.net/pokedex/chewtle,['Water'],0.0,[],[],30.0
+110,Coalossal,https://pokemondb.net/pokedex/coalossal,"['Rock', 'Fire']",0.0,[],[],280.0
+25,Blipbug,https://pokemondb.net/pokedex/blipbug,['Bug'],0.0,[],[],40.0
+98,Corviknight,https://pokemondb.net/pokedex/corviknight,"['Flying', 'Steel']",0.0,[],[],220.00000000000003
+68,Corvisquire,https://pokemondb.net/pokedex/corvisquire,['Flying'],0.0,[],[],80.0
+38,Rookidee,https://pokemondb.net/pokedex/rookidee,['Flying'],0.0,[],[],20.0
+59,Yamper,https://pokemondb.net/pokedex/yamper,['Electric'],0.0,[],[],30.0
+50,Dottler,https://pokemondb.net/pokedex/dottler,"['Bug', 'Psychic']",0.0,[],[],40.0
+70,Skwovet,https://pokemondb.net/pokedex/skwovet,['Normal'],0.0,[],[],30.0
+70,Inteleon,https://pokemondb.net/pokedex/inteleon,['Water'],0.0,[],[],190.0
+50,Sobble,https://pokemondb.net/pokedex/sobble,['Water'],0.0,[],[],30.0
+80,Cinderace,https://pokemondb.net/pokedex/cinderace,['Fire'],0.0,[],[],140.0
+65,Drizzile,https://pokemondb.net/pokedex/drizzile,['Water'],0.0,[],[],70.0
+65,Raboot,https://pokemondb.net/pokedex/raboot,['Fire'],0.0,[],[],60.0
+120,Greedent,https://pokemondb.net/pokedex/greedent,['Normal'],0.0,[],[],60.0
+135,Melmetal,https://pokemondb.net/pokedex/melmetal,['Steel'],0.0,[],[],250.0
+88,Zeraora,https://pokemondb.net/pokedex/zeraora,['Electric'],0.0,[],[],150.0
+50,Grookey,https://pokemondb.net/pokedex/grookey,['Grass'],0.0,[],[],30.0
+46,Meltan,https://pokemondb.net/pokedex/meltan,['Steel'],0.0,[],[],20.0
+50,Scorbunny,https://pokemondb.net/pokedex/scorbunny,['Fire'],0.0,[],[],30.0
+53,Blacephalon,https://pokemondb.net/pokedex/blacephalon,"['Fire', 'Ghost']",0.0,[],[],180.0
+100,Rillaboom,https://pokemondb.net/pokedex/rillaboom,['Grass'],0.0,[],[],210.0
+59,Kartana,https://pokemondb.net/pokedex/kartana,"['Grass', 'Steel']",0.0,[],[],30.0
+107,Buzzwole,https://pokemondb.net/pokedex/buzzwole,"['Bug', 'Fighting']",0.0,[],[],240.0
+83,Xurkitree,https://pokemondb.net/pokedex/xurkitree,['Electric'],0.0,[],[],380.0
+97,Celesteela,https://pokemondb.net/pokedex/celesteela,"['Steel', 'Flying']",0.0,[],[],919.9999999999999
+223,Guzzlord,https://pokemondb.net/pokedex/guzzlord,"['Dark', 'Dragon']",0.0,[],[],550.0
+109,Nihilego,https://pokemondb.net/pokedex/nihilego,"['Rock', 'Poison']",0.0,[],[],120.0
+137,Lunala,https://pokemondb.net/pokedex/lunala,"['Psychic', 'Ghost']",0.0,[],[],400.0
+70,Thwackey,https://pokemondb.net/pokedex/thwackey,['Grass'],0.0,[],[],70.0
+137,Solgaleo,https://pokemondb.net/pokedex/solgaleo,"['Psychic', 'Steel']",0.0,[],[],340.0
+43,Cosmoem,https://pokemondb.net/pokedex/cosmoem,['Psychic'],0.0,[],[],10.0
+43,Cosmog,https://pokemondb.net/pokedex/cosmog,['Psychic'],0.0,[],[],20.0
+75,Kommo-o,https://pokemondb.net/pokedex/kommo-o,"['Dragon', 'Fighting']",0.0,[],[],160.0
+70,Tapu Bulu,https://pokemondb.net/pokedex/tapu-bulu,"['Grass', 'Fairy']",0.0,[],[],190.0
+55,Hakamo-o,https://pokemondb.net/pokedex/hakamo-o,"['Dragon', 'Fighting']",0.0,[],[],120.0
+70,Tapu Lele,https://pokemondb.net/pokedex/tapu-lele,"['Psychic', 'Fairy']",0.0,[],[],120.0
+70,Tapu Koko,https://pokemondb.net/pokedex/tapu-koko,"['Electric', 'Fairy']",0.0,[],[],180.0
+45,Jangmo-o,https://pokemondb.net/pokedex/jangmo-o,['Dragon'],0.0,[],[],60.0
+70,Tapu Fini,https://pokemondb.net/pokedex/tapu-fini,"['Water', 'Fairy']",0.0,[],[],130.0
+68,Bruxish,https://pokemondb.net/pokedex/bruxish,"['Water', 'Psychic']",0.0,[],[],90.0
+55,Mimikyu,https://pokemondb.net/pokedex/mimikyu,"['Ghost', 'Fairy']",0.0,[],[],20.0
+60,Turtonator,https://pokemondb.net/pokedex/turtonator,"['Fire', 'Dragon']",0.0,[],[],200.0
+65,Togedemaru,https://pokemondb.net/pokedex/togedemaru,"['Electric', 'Steel']",0.0,[],[],30.0
+65,Komala,https://pokemondb.net/pokedex/komala,['Normal'],0.0,[],[],40.0
+78,Drampa,https://pokemondb.net/pokedex/drampa,"['Normal', 'Dragon']",0.0,[],[],300.0
+70,Dhelmise,https://pokemondb.net/pokedex/dhelmise,"['Ghost', 'Grass']",0.0,[],[],390.0
+95,Type: Null,https://pokemondb.net/pokedex/type-null,['Normal'],0.0,[],[],190.0
+55,Pyukumuku,https://pokemondb.net/pokedex/pyukumuku,['Water'],0.0,[],[],30.0
+95,Silvally,https://pokemondb.net/pokedex/silvally,['Normal'],0.0,[],[],229.99999999999997
+85,Palossand,https://pokemondb.net/pokedex/palossand,"['Ghost', 'Ground']",0.0,[],[],130.0
+55,Sandygast,https://pokemondb.net/pokedex/sandygast,"['Ghost', 'Ground']",0.0,[],[],50.0
+60,Minior,https://pokemondb.net/pokedex/minior,"['Rock', 'Flying']",0.0,[],[],30.0
+100,Passimian,https://pokemondb.net/pokedex/passimian,['Fighting'],0.0,[],[],200.0
+51,Comfey,https://pokemondb.net/pokedex/comfey,['Fairy'],0.0,[],[],10.0
+90,Oranguru,https://pokemondb.net/pokedex/oranguru,"['Normal', 'Psychic']",0.0,[],[],150.0
+72,Tsareena,https://pokemondb.net/pokedex/tsareena,['Grass'],0.0,[],[],120.0
+52,Steenee,https://pokemondb.net/pokedex/steenee,['Grass'],0.0,[],[],70.0
+38,Dewpider,https://pokemondb.net/pokedex/dewpider,"['Water', 'Bug']",0.0,[],[],30.0
+75,Golisopod,https://pokemondb.net/pokedex/golisopod,"['Bug', 'Water']",0.0,[],[],200.0
+42,Bounsweet,https://pokemondb.net/pokedex/bounsweet,['Grass'],0.0,[],[],30.0
+25,Wimpod,https://pokemondb.net/pokedex/wimpod,"['Bug', 'Water']",0.0,[],[],50.0
+120,Bewear,https://pokemondb.net/pokedex/bewear,"['Normal', 'Fighting']",0.0,[],[],210.0
+68,Araquanid,https://pokemondb.net/pokedex/araquanid,"['Water', 'Bug']",0.0,[],[],180.0
+70,Stufful,https://pokemondb.net/pokedex/stufful,"['Normal', 'Fighting']",0.0,[],[],50.0
+50,Toxapex,https://pokemondb.net/pokedex/toxapex,"['Poison', 'Water']",0.0,[],[],70.0
+75,Lycanroc,https://pokemondb.net/pokedex/lycanroc,['Rock'],0.0,[],[],80.0
+50,Mareanie,https://pokemondb.net/pokedex/mareanie,"['Poison', 'Water']",0.0,[],[],40.0
+45,Wishiwashi,https://pokemondb.net/pokedex/wishiwashi,['Water'],0.0,[],[],20.0
+45,Rockruff,https://pokemondb.net/pokedex/rockruff,['Rock'],0.0,[],[],50.0
+70,Mudbray,https://pokemondb.net/pokedex/mudbray,['Ground'],0.0,[],[],100.0
+60,Ribombee,https://pokemondb.net/pokedex/ribombee,"['Bug', 'Fairy']",0.0,[],[],20.0
+100,Mudsdale,https://pokemondb.net/pokedex/mudsdale,['Ground'],0.0,[],[],250.0
+47,Grubbin,https://pokemondb.net/pokedex/grubbin,['Bug'],0.0,[],[],40.0
+40,Cutiefly,https://pokemondb.net/pokedex/cutiefly,"['Bug', 'Fairy']",0.0,[],[],10.0
+97,Crabominable,https://pokemondb.net/pokedex/crabominable,"['Fighting', 'Ice']",0.0,[],[],170.0
+75,Oricorio,https://pokemondb.net/pokedex/oricorio,"['Fire', 'Flying']",0.0,[],[],60.0
+77,Vikavolt,https://pokemondb.net/pokedex/vikavolt,"['Bug', 'Electric']",0.0,[],[],150.0
+47,Crabrawler,https://pokemondb.net/pokedex/crabrawler,['Fighting'],0.0,[],[],60.0
+57,Charjabug,https://pokemondb.net/pokedex/charjabug,"['Bug', 'Electric']",0.0,[],[],50.0
+80,Toucannon,https://pokemondb.net/pokedex/toucannon,"['Normal', 'Flying']",0.0,[],[],110.00000000000001
+68,Rowlet,https://pokemondb.net/pokedex/rowlet,"['Grass', 'Flying']",0.0,[],[],30.0
+55,Trumbeak,https://pokemondb.net/pokedex/trumbeak,"['Normal', 'Flying']",0.0,[],[],60.0
+78,Dartrix,https://pokemondb.net/pokedex/dartrix,"['Grass', 'Flying']",0.0,[],[],70.0
+80,Volcanion,https://pokemondb.net/pokedex/volcanion,"['Fire', 'Water']",0.0,[],[],170.0
+80,Hoopa,https://pokemondb.net/pokedex/hoopa,"['Psychic', 'Ghost']",0.0,[],[],50.0
+88,Gumshoos,https://pokemondb.net/pokedex/gumshoos,['Normal'],0.0,[],[],70.0
+48,Yungoos,https://pokemondb.net/pokedex/yungoos,['Normal'],0.0,[],[],40.0
+95,Avalugg,https://pokemondb.net/pokedex/avalugg,['Ice'],0.0,[],[],200.0
+55,Bergmite,https://pokemondb.net/pokedex/bergmite,['Ice'],0.0,[],[],100.0
+126,Yveltal,https://pokemondb.net/pokedex/yveltal,"['Dark', 'Flying']",0.0,[],[],580.0
+126,Xerneas,https://pokemondb.net/pokedex/xerneas,['Fairy'],0.0,[],[],300.0
+50,Diancie,https://pokemondb.net/pokedex/diancie,"['Rock', 'Fairy']",0.0,[],[],70.0
+108,Zygarde,https://pokemondb.net/pokedex/zygarde,"['Dragon', 'Ground']",0.0,[],[],500.0
+85,Noivern,https://pokemondb.net/pokedex/noivern,"['Flying', 'Dragon']",0.0,[],[],150.0
+40,Noibat,https://pokemondb.net/pokedex/noibat,"['Flying', 'Dragon']",0.0,[],[],50.0
+85,Trevenant,https://pokemondb.net/pokedex/trevenant,"['Ghost', 'Grass']",0.0,[],[],150.0
+68,Sliggoo,https://pokemondb.net/pokedex/sliggoo,['Dragon'],0.0,[],[],80.0
+49,Pumpkaboo,https://pokemondb.net/pokedex/pumpkaboo,"['Ghost', 'Grass']",0.0,[],[],40.0
+43,Phantump,https://pokemondb.net/pokedex/phantump,"['Ghost', 'Grass']",0.0,[],[],40.0
+57,Klefki,https://pokemondb.net/pokedex/klefki,"['Steel', 'Fairy']",0.0,[],[],20.0
+90,Goodra,https://pokemondb.net/pokedex/goodra,['Dragon'],0.0,[],[],200.0
+45,Goomy,https://pokemondb.net/pokedex/goomy,['Dragon'],0.0,[],[],30.0
+50,Carbink,https://pokemondb.net/pokedex/carbink,"['Rock', 'Fairy']",0.0,[],[],30.0
+95,Sylveon,https://pokemondb.net/pokedex/sylveon,['Fairy'],0.0,[],[],100.0
+123,Aurorus,https://pokemondb.net/pokedex/aurorus,"['Rock', 'Ice']",0.0,[],[],270.0
+67,Dedenne,https://pokemondb.net/pokedex/dedenne,"['Electric', 'Fairy']",0.0,[],[],20.0
+82,Tyrantrum,https://pokemondb.net/pokedex/tyrantrum,"['Rock', 'Dragon']",0.0,[],[],250.0
+78,Hawlucha,https://pokemondb.net/pokedex/hawlucha,"['Fighting', 'Flying']",0.0,[],[],80.0
+77,Amaura,https://pokemondb.net/pokedex/amaura,"['Rock', 'Ice']",0.0,[],[],130.0
+58,Tyrunt,https://pokemondb.net/pokedex/tyrunt,"['Rock', 'Dragon']",0.0,[],[],80.0
+62,Heliolisk,https://pokemondb.net/pokedex/heliolisk,"['Electric', 'Normal']",0.0,[],[],100.0
+86,Malamar,https://pokemondb.net/pokedex/malamar,"['Dark', 'Psychic']",0.0,[],[],150.0
+53,Inkay,https://pokemondb.net/pokedex/inkay,"['Dark', 'Psychic']",0.0,[],[],40.0
+82,Slurpuff,https://pokemondb.net/pokedex/slurpuff,['Fairy'],0.0,[],[],80.0
+62,Swirlix,https://pokemondb.net/pokedex/swirlix,['Fairy'],0.0,[],[],40.0
+101,Aromatisse,https://pokemondb.net/pokedex/aromatisse,['Fairy'],0.0,[],[],80.0
+65,Gourgeist,https://pokemondb.net/pokedex/gourgeist,"['Ghost', 'Grass']",0.0,[],[],90.0
+62,Espurr,https://pokemondb.net/pokedex/espurr,['Psychic'],0.0,[],[],30.0
+78,Spritzee,https://pokemondb.net/pokedex/spritzee,['Fairy'],0.0,[],[],20.0
+60,Aegislash,https://pokemondb.net/pokedex/aegislash,"['Steel', 'Ghost']",0.0,[],[],170.0
+59,Doublade,https://pokemondb.net/pokedex/doublade,"['Steel', 'Ghost']",0.0,[],[],80.0
+75,Furfrou,https://pokemondb.net/pokedex/furfrou,['Normal'],0.0,[],[],120.0
+45,Honedge,https://pokemondb.net/pokedex/honedge,"['Steel', 'Ghost']",0.0,[],[],80.0
+74,Meowstic,https://pokemondb.net/pokedex/meowstic,['Psychic'],0.0,[],[],60.0
+95,Pangoro,https://pokemondb.net/pokedex/pangoro,"['Fighting', 'Dark']",0.0,[],[],210.0
+78,Talonflame,https://pokemondb.net/pokedex/talonflame,"['Fire', 'Flying']",0.0,[],[],120.0
+45,Fletchling,https://pokemondb.net/pokedex/fletchling,"['Normal', 'Flying']",0.0,[],[],30.0
+78,Florges,https://pokemondb.net/pokedex/florges,['Fairy'],0.0,[],[],110.00000000000001
+85,Diggersby,https://pokemondb.net/pokedex/diggersby,"['Normal', 'Ground']",0.0,[],[],100.0
+123,Gogoat,https://pokemondb.net/pokedex/gogoat,['Grass'],0.0,[],[],170.0
+66,Skiddo,https://pokemondb.net/pokedex/skiddo,['Grass'],0.0,[],[],90.0
+62,Fletchinder,https://pokemondb.net/pokedex/fletchinder,"['Fire', 'Flying']",0.0,[],[],70.0
+67,Pancham,https://pokemondb.net/pokedex/pancham,['Fighting'],0.0,[],[],60.0
+72,Greninja,https://pokemondb.net/pokedex/greninja,"['Water', 'Dark']",0.0,[],[],150.0
+41,Froakie,https://pokemondb.net/pokedex/froakie,['Water'],0.0,[],[],30.0
+75,Delphox,https://pokemondb.net/pokedex/delphox,"['Fire', 'Psychic']",0.0,[],[],150.0
+59,Braixen,https://pokemondb.net/pokedex/braixen,['Fire'],0.0,[],[],100.0
+38,Bunnelby,https://pokemondb.net/pokedex/bunnelby,['Normal'],0.0,[],[],40.0
+40,Fennekin,https://pokemondb.net/pokedex/fennekin,['Fire'],0.0,[],[],40.0
+54,Frogadier,https://pokemondb.net/pokedex/frogadier,['Water'],0.0,[],[],60.0
+61,Quilladin,https://pokemondb.net/pokedex/quilladin,['Grass'],0.0,[],[],70.0
+56,Chespin,https://pokemondb.net/pokedex/chespin,['Grass'],0.0,[],[],40.0
+55,Larvesta,https://pokemondb.net/pokedex/larvesta,"['Bug', 'Fire']",0.0,[],[],110.00000000000001
+71,Genesect,https://pokemondb.net/pokedex/genesect,"['Bug', 'Steel']",0.0,[],[],150.0
+100,Meloetta,https://pokemondb.net/pokedex/meloetta,"['Normal', 'Psychic']",0.0,[],[],60.0
+88,Chesnaught,https://pokemondb.net/pokedex/chesnaught,"['Grass', 'Fighting']",0.0,[],[],160.0
+125,Kyurem,https://pokemondb.net/pokedex/kyurem,"['Dragon', 'Ice']",0.0,[],[],300.0
+85,Volcarona,https://pokemondb.net/pokedex/volcarona,"['Bug', 'Fire']",0.0,[],[],160.0
+91,Keldeo,https://pokemondb.net/pokedex/keldeo,"['Water', 'Fighting']",0.0,[],[],140.0
+92,Hydreigon,https://pokemondb.net/pokedex/hydreigon,"['Dark', 'Dragon']",0.0,[],[],180.0
+52,Deino,https://pokemondb.net/pokedex/deino,"['Dark', 'Dragon']",0.0,[],[],80.0
+58,Durant,https://pokemondb.net/pokedex/durant,"['Bug', 'Steel']",0.0,[],[],30.0
+85,Heatmor,https://pokemondb.net/pokedex/heatmor,['Fire'],0.0,[],[],140.0
+110,Mandibuzz,https://pokemondb.net/pokedex/mandibuzz,"['Dark', 'Flying']",0.0,[],[],120.0
+70,Vullaby,https://pokemondb.net/pokedex/vullaby,"['Dark', 'Flying']",0.0,[],[],50.0
+72,Zweilous,https://pokemondb.net/pokedex/zweilous,"['Dark', 'Dragon']",0.0,[],[],140.0
+95,Bouffalant,https://pokemondb.net/pokedex/bouffalant,['Normal'],0.0,[],[],160.0
+65,Bisharp,https://pokemondb.net/pokedex/bisharp,"['Dark', 'Steel']",0.0,[],[],160.0
+70,Rufflet,https://pokemondb.net/pokedex/rufflet,"['Normal', 'Flying']",0.0,[],[],50.0
+45,Pawniard,https://pokemondb.net/pokedex/pawniard,"['Dark', 'Steel']",0.0,[],[],50.0
+59,Golett,https://pokemondb.net/pokedex/golett,"['Ground', 'Ghost']",0.0,[],[],100.0
+100,Braviary,https://pokemondb.net/pokedex/braviary,"['Normal', 'Flying']",0.0,[],[],150.0
+55,Cubchoo,https://pokemondb.net/pokedex/cubchoo,['Ice'],0.0,[],[],50.0
+89,Golurk,https://pokemondb.net/pokedex/golurk,"['Ground', 'Ghost']",0.0,[],[],280.0
+76,Haxorus,https://pokemondb.net/pokedex/haxorus,['Dragon'],0.0,[],[],180.0
+75,Beheeyem,https://pokemondb.net/pokedex/beheeyem,['Psychic'],0.0,[],[],100.0
+66,Fraxure,https://pokemondb.net/pokedex/fraxure,['Dragon'],0.0,[],[],100.0
+46,Axew,https://pokemondb.net/pokedex/axew,['Dragon'],0.0,[],[],60.0
+60,Chandelure,https://pokemondb.net/pokedex/chandelure,"['Ghost', 'Fire']",0.0,[],[],100.0
+55,Elgyem,https://pokemondb.net/pokedex/elgyem,['Psychic'],0.0,[],[],50.0
+60,Lampent,https://pokemondb.net/pokedex/lampent,"['Ghost', 'Fire']",0.0,[],[],60.0
+50,Litwick,https://pokemondb.net/pokedex/litwick,"['Ghost', 'Fire']",0.0,[],[],30.0
+85,Eelektross,https://pokemondb.net/pokedex/eelektross,['Electric'],0.0,[],[],210.0
+35,Tynamo,https://pokemondb.net/pokedex/tynamo,['Electric'],0.0,[],[],20.0
+60,Klinklang,https://pokemondb.net/pokedex/klinklang,['Steel'],0.0,[],[],60.0
+74,Ferrothorn,https://pokemondb.net/pokedex/ferrothorn,"['Grass', 'Steel']",0.0,[],[],100.0
+65,Eelektrik,https://pokemondb.net/pokedex/eelektrik,['Electric'],0.0,[],[],120.0
+44,Ferroseed,https://pokemondb.net/pokedex/ferroseed,"['Grass', 'Steel']",0.0,[],[],60.0
+40,Klink,https://pokemondb.net/pokedex/klink,['Steel'],0.0,[],[],30.0
+60,Klang,https://pokemondb.net/pokedex/klang,['Steel'],0.0,[],[],60.0
+70,Galvantula,https://pokemondb.net/pokedex/galvantula,"['Bug', 'Electric']",0.0,[],[],80.0
+165,Alomomola,https://pokemondb.net/pokedex/alomomola,['Water'],0.0,[],[],120.0
+55,Frillish,https://pokemondb.net/pokedex/frillish,"['Water', 'Ghost']",0.0,[],[],120.0
+114,Amoonguss,https://pokemondb.net/pokedex/amoonguss,"['Grass', 'Poison']",0.0,[],[],60.0
+50,Joltik,https://pokemondb.net/pokedex/joltik,"['Bug', 'Electric']",0.0,[],[],10.0
+55,Emolga,https://pokemondb.net/pokedex/emolga,"['Electric', 'Flying']",0.0,[],[],40.0
+100,Jellicent,https://pokemondb.net/pokedex/jellicent,"['Water', 'Ghost']",0.0,[],[],220.00000000000003
+80,Sawsbuck,https://pokemondb.net/pokedex/sawsbuck,"['Normal', 'Grass']",0.0,[],[],190.0
+69,Foongus,https://pokemondb.net/pokedex/foongus,"['Grass', 'Poison']",0.0,[],[],20.0
+71,Vanilluxe,https://pokemondb.net/pokedex/vanilluxe,['Ice'],0.0,[],[],130.0
+60,Gothorita,https://pokemondb.net/pokedex/gothorita,['Psychic'],0.0,[],[],70.0
+70,Gothitelle,https://pokemondb.net/pokedex/gothitelle,['Psychic'],0.0,[],[],150.0
+45,Gothita,https://pokemondb.net/pokedex/gothita,['Psychic'],0.0,[],[],40.0
+60,Deerling,https://pokemondb.net/pokedex/deerling,"['Normal', 'Grass']",0.0,[],[],60.0
+70,Escavalier,https://pokemondb.net/pokedex/escavalier,"['Bug', 'Steel']",0.0,[],[],100.0
+75,Cinccino,https://pokemondb.net/pokedex/cinccino,['Normal'],0.0,[],[],50.0
+50,Karrablast,https://pokemondb.net/pokedex/karrablast,['Bug'],0.0,[],[],50.0
+74,Carracosta,https://pokemondb.net/pokedex/carracosta,"['Water', 'Rock']",0.0,[],[],120.0
+55,Archen,https://pokemondb.net/pokedex/archen,"['Rock', 'Flying']",0.0,[],[],50.0
+55,Minccino,https://pokemondb.net/pokedex/minccino,['Normal'],0.0,[],[],40.0
+40,Zorua,https://pokemondb.net/pokedex/zorua,['Dark'],0.0,[],[],70.0
+80,Garbodor,https://pokemondb.net/pokedex/garbodor,['Poison'],0.0,[],[],190.0
+60,Zoroark,https://pokemondb.net/pokedex/zoroark,['Dark'],0.0,[],[],160.0
+50,Trubbish,https://pokemondb.net/pokedex/trubbish,['Poison'],0.0,[],[],60.0
+75,Archeops,https://pokemondb.net/pokedex/archeops,"['Rock', 'Flying']",0.0,[],[],140.0
+54,Tirtouga,https://pokemondb.net/pokedex/tirtouga,"['Water', 'Rock']",0.0,[],[],70.0
+50,Scraggy,https://pokemondb.net/pokedex/scraggy,"['Dark', 'Fighting']",0.0,[],[],60.0
+72,Sigilyph,https://pokemondb.net/pokedex/sigilyph,"['Psychic', 'Flying']",0.0,[],[],140.0
+65,Scrafty,https://pokemondb.net/pokedex/scrafty,"['Dark', 'Fighting']",0.0,[],[],110.00000000000001
+70,Crustle,https://pokemondb.net/pokedex/crustle,"['Bug', 'Rock']",0.0,[],[],140.0
+50,Dwebble,https://pokemondb.net/pokedex/dwebble,"['Bug', 'Rock']",0.0,[],[],30.0
+75,Maractus,https://pokemondb.net/pokedex/maractus,['Grass'],0.0,[],[],100.0
+58,Cofagrigus,https://pokemondb.net/pokedex/cofagrigus,['Ghost'],0.0,[],[],170.0
+38,Yamask,https://pokemondb.net/pokedex/yamask,['Ghost'],0.0,[],[],50.0
+40,Cottonee,https://pokemondb.net/pokedex/cottonee,"['Grass', 'Fairy']",0.0,[],[],30.0
+45,Petilil,https://pokemondb.net/pokedex/petilil,['Grass'],0.0,[],[],50.0
+60,Whimsicott,https://pokemondb.net/pokedex/whimsicott,"['Grass', 'Fairy']",0.0,[],[],70.0
+60,Scolipede,https://pokemondb.net/pokedex/scolipede,"['Bug', 'Poison']",0.0,[],[],250.0
+40,Whirlipede,https://pokemondb.net/pokedex/whirlipede,"['Bug', 'Poison']",0.0,[],[],120.0
+30,Venipede,https://pokemondb.net/pokedex/venipede,"['Bug', 'Poison']",0.0,[],[],40.0
+75,Leavanny,https://pokemondb.net/pokedex/leavanny,"['Bug', 'Grass']",0.0,[],[],120.0
+55,Swadloon,https://pokemondb.net/pokedex/swadloon,"['Bug', 'Grass']",0.0,[],[],50.0
+45,Sewaddle,https://pokemondb.net/pokedex/sewaddle,"['Bug', 'Grass']",0.0,[],[],30.0
+75,Sawk,https://pokemondb.net/pokedex/sawk,['Fighting'],0.0,[],[],140.0
+120,Throh,https://pokemondb.net/pokedex/throh,['Fighting'],0.0,[],[],130.0
+105,Seismitoad,https://pokemondb.net/pokedex/seismitoad,"['Water', 'Ground']",0.0,[],[],150.0
+75,Palpitoad,https://pokemondb.net/pokedex/palpitoad,"['Water', 'Ground']",0.0,[],[],80.0
+50,Tympole,https://pokemondb.net/pokedex/tympole,['Water'],0.0,[],[],50.0
+105,Conkeldurr,https://pokemondb.net/pokedex/conkeldurr,['Fighting'],0.0,[],[],140.0
+85,Gurdurr,https://pokemondb.net/pokedex/gurdurr,['Fighting'],0.0,[],[],120.0
+75,Timburr,https://pokemondb.net/pokedex/timburr,['Fighting'],0.0,[],[],60.0
+103,Audino,https://pokemondb.net/pokedex/audino,['Normal'],0.0,[],[],110.00000000000001
+67,Swoobat,https://pokemondb.net/pokedex/swoobat,"['Psychic', 'Flying']",0.0,[],[],90.0
+110,Excadrill,https://pokemondb.net/pokedex/excadrill,"['Ground', 'Steel']",0.0,[],[],70.0
+65,Woobat,https://pokemondb.net/pokedex/woobat,"['Psychic', 'Flying']",0.0,[],[],40.0
+85,Gigalith,https://pokemondb.net/pokedex/gigalith,['Rock'],0.0,[],[],170.0
+70,Boldore,https://pokemondb.net/pokedex/boldore,['Rock'],0.0,[],[],90.0
+55,Roggenrola,https://pokemondb.net/pokedex/roggenrola,['Rock'],0.0,[],[],40.0
+75,Zebstrika,https://pokemondb.net/pokedex/zebstrika,['Electric'],0.0,[],[],160.0
+45,Blitzle,https://pokemondb.net/pokedex/blitzle,['Electric'],0.0,[],[],80.0
+80,Unfezant,https://pokemondb.net/pokedex/unfezant,"['Normal', 'Flying']",0.0,[],[],120.0
+62,Tranquill,https://pokemondb.net/pokedex/tranquill,"['Normal', 'Flying']",0.0,[],[],60.0
+50,Pidove,https://pokemondb.net/pokedex/pidove,"['Normal', 'Flying']",0.0,[],[],30.0
+116,Musharna,https://pokemondb.net/pokedex/musharna,['Psychic'],0.0,[],[],110.00000000000001
+41,Purrloin,https://pokemondb.net/pokedex/purrloin,['Dark'],0.0,[],[],40.0
+85,Stoutland,https://pokemondb.net/pokedex/stoutland,['Normal'],0.0,[],[],120.0
+45,Lillipup,https://pokemondb.net/pokedex/lillipup,['Normal'],0.0,[],[],40.0
+60,Watchog,https://pokemondb.net/pokedex/watchog,['Normal'],0.0,[],[],110.00000000000001
+64,Liepard,https://pokemondb.net/pokedex/liepard,['Dark'],0.0,[],[],110.00000000000001
+95,Samurott,https://pokemondb.net/pokedex/samurott,['Water'],0.0,[],[],150.0
+75,Dewott,https://pokemondb.net/pokedex/dewott,['Water'],0.0,[],[],80.0
+110,Emboar,https://pokemondb.net/pokedex/emboar,"['Fire', 'Fighting']",0.0,[],[],160.0
+90,Pignite,https://pokemondb.net/pokedex/pignite,"['Fire', 'Fighting']",0.0,[],[],100.0
+65,Tepig,https://pokemondb.net/pokedex/tepig,['Fire'],0.0,[],[],50.0
+45,Patrat,https://pokemondb.net/pokedex/patrat,['Normal'],0.0,[],[],50.0
+65,Herdier,https://pokemondb.net/pokedex/herdier,['Normal'],0.0,[],[],90.0
+75,Serperior,https://pokemondb.net/pokedex/serperior,['Grass'],0.0,[],[],330.0
+100,Shaymin,https://pokemondb.net/pokedex/shaymin,['Grass'],0.0,[],[],20.0
+60,Servine,https://pokemondb.net/pokedex/servine,['Grass'],0.0,[],[],80.0
+55,Oshawott,https://pokemondb.net/pokedex/oshawott,['Water'],0.0,[],[],50.0
+45,Snivy,https://pokemondb.net/pokedex/snivy,['Grass'],0.0,[],[],60.0
+120,Arceus,https://pokemondb.net/pokedex/arceus,['Normal'],0.0,[],[],320.0
+100,Victini,https://pokemondb.net/pokedex/victini,"['Psychic', 'Fire']",0.0,[],[],40.0
+70,Darkrai,https://pokemondb.net/pokedex/darkrai,['Dark'],0.0,[],[],150.0
+100,Manaphy,https://pokemondb.net/pokedex/manaphy,['Water'],0.0,[],[],30.0
+120,Cresselia,https://pokemondb.net/pokedex/cresselia,['Psychic'],0.0,[],[],150.0
+91,Heatran,https://pokemondb.net/pokedex/heatran,"['Fire', 'Steel']",0.0,[],[],170.0
+150,Giratina,https://pokemondb.net/pokedex/giratina,"['Ghost', 'Dragon']",0.0,[],[],450.0
+110,Regigigas,https://pokemondb.net/pokedex/regigigas,['Normal'],0.0,[],[],370.0
+90,Palkia,https://pokemondb.net/pokedex/palkia,"['Water', 'Dragon']",0.0,[],[],420.0
+100,Dialga,https://pokemondb.net/pokedex/dialga,"['Steel', 'Dragon']",0.0,[],[],540.0
+75,Azelf,https://pokemondb.net/pokedex/azelf,['Psychic'],0.0,[],[],30.0
+80,Phione,https://pokemondb.net/pokedex/phione,['Water'],0.0,[],[],40.0
+80,Mesprit,https://pokemondb.net/pokedex/mesprit,['Psychic'],0.0,[],[],30.0
+50,Rotom,https://pokemondb.net/pokedex/rotom,"['Electric', 'Ghost']",0.0,[],[],30.0
+110,Mamoswine,https://pokemondb.net/pokedex/mamoswine,"['Ice', 'Ground']",0.0,[],[],250.0
+75,Uxie,https://pokemondb.net/pokedex/uxie,['Psychic'],0.0,[],[],30.0
+75,Gliscor,https://pokemondb.net/pokedex/gliscor,"['Ground', 'Flying']",0.0,[],[],200.0
+65,Glaceon,https://pokemondb.net/pokedex/glaceon,['Ice'],0.0,[],[],80.0
+65,Leafeon,https://pokemondb.net/pokedex/leafeon,['Grass'],0.0,[],[],100.0
+86,Yanmega,https://pokemondb.net/pokedex/yanmega,"['Bug', 'Flying']",0.0,[],[],190.0
+85,Togekiss,https://pokemondb.net/pokedex/togekiss,"['Fairy', 'Flying']",0.0,[],[],150.0
+75,Magmortar,https://pokemondb.net/pokedex/magmortar,['Fire'],0.0,[],[],160.0
+115,Rhyperior,https://pokemondb.net/pokedex/rhyperior,"['Ground', 'Rock']",0.0,[],[],240.0
+75,Electivire,https://pokemondb.net/pokedex/electivire,['Electric'],0.0,[],[],180.0
+100,Tangrowth,https://pokemondb.net/pokedex/tangrowth,['Grass'],0.0,[],[],200.0
+110,Lickilicky,https://pokemondb.net/pokedex/lickilicky,['Normal'],0.0,[],[],170.0
+70,Magnezone,https://pokemondb.net/pokedex/magnezone,"['Electric', 'Steel']",0.0,[],[],120.0
+70,Weavile,https://pokemondb.net/pokedex/weavile,"['Dark', 'Ice']",0.0,[],[],110.00000000000001
+90,Abomasnow,https://pokemondb.net/pokedex/abomasnow,"['Grass', 'Ice']",0.0,[],[],220.00000000000003
+60,Snover,https://pokemondb.net/pokedex/snover,"['Grass', 'Ice']",0.0,[],[],100.0
+45,Mantyke,https://pokemondb.net/pokedex/mantyke,"['Water', 'Flying']",0.0,[],[],100.0
+69,Lumineon,https://pokemondb.net/pokedex/lumineon,['Water'],0.0,[],[],120.0
+49,Finneon,https://pokemondb.net/pokedex/finneon,['Water'],0.0,[],[],40.0
+74,Carnivine,https://pokemondb.net/pokedex/carnivine,['Grass'],0.0,[],[],140.0
+83,Toxicroak,https://pokemondb.net/pokedex/toxicroak,"['Poison', 'Fighting']",0.0,[],[],130.0
+48,Croagunk,https://pokemondb.net/pokedex/croagunk,"['Poison', 'Fighting']",0.0,[],[],70.0
+70,Drapion,https://pokemondb.net/pokedex/drapion,"['Poison', 'Dark']",0.0,[],[],130.0
+40,Skorupi,https://pokemondb.net/pokedex/skorupi,"['Poison', 'Bug']",0.0,[],[],80.0
+108,Hippowdon,https://pokemondb.net/pokedex/hippowdon,['Ground'],0.0,[],[],200.0
+68,Hippopotas,https://pokemondb.net/pokedex/hippopotas,['Ground'],0.0,[],[],80.0
+70,Lucario,https://pokemondb.net/pokedex/lucario,"['Fighting', 'Steel']",0.0,[],[],120.0
+135,Munchlax,https://pokemondb.net/pokedex/munchlax,['Normal'],0.0,[],[],60.0
+108,Garchomp,https://pokemondb.net/pokedex/garchomp,"['Dragon', 'Ground']",0.0,[],[],190.0
+58,Gible,https://pokemondb.net/pokedex/gible,"['Dragon', 'Ground']",0.0,[],[],70.0
+50,Spiritomb,https://pokemondb.net/pokedex/spiritomb,"['Ghost', 'Dark']",0.0,[],[],100.0
+45,Chingling,https://pokemondb.net/pokedex/chingling,['Psychic'],0.0,[],[],20.0
+71,Purugly,https://pokemondb.net/pokedex/purugly,['Normal'],0.0,[],[],100.0
+49,Glameow,https://pokemondb.net/pokedex/glameow,['Normal'],0.0,[],[],50.0
+60,Mismagius,https://pokemondb.net/pokedex/mismagius,['Ghost'],0.0,[],[],90.0
+150,Drifblim,https://pokemondb.net/pokedex/drifblim,"['Ghost', 'Flying']",0.0,[],[],120.0
+65,Lopunny,https://pokemondb.net/pokedex/lopunny,['Normal'],0.0,[],[],120.0
+55,Buneary,https://pokemondb.net/pokedex/buneary,['Normal'],0.0,[],[],40.0
+68,Gabite,https://pokemondb.net/pokedex/gabite,"['Dragon', 'Ground']",0.0,[],[],140.0
+100,Honchkrow,https://pokemondb.net/pokedex/honchkrow,"['Dark', 'Flying']",0.0,[],[],90.0
+75,Ambipom,https://pokemondb.net/pokedex/ambipom,['Normal'],0.0,[],[],120.0
+70,Cherrim,https://pokemondb.net/pokedex/cherrim,['Grass'],0.0,[],[],50.0
+111,Gastrodon,https://pokemondb.net/pokedex/gastrodon,"['Water', 'Ground']",0.0,[],[],90.0
+76,Shellos,https://pokemondb.net/pokedex/shellos,['Water'],0.0,[],[],30.0
+90,Drifloon,https://pokemondb.net/pokedex/drifloon,"['Ghost', 'Flying']",0.0,[],[],40.0
+85,Floatzel,https://pokemondb.net/pokedex/floatzel,['Water'],0.0,[],[],110.00000000000001
+55,Buizel,https://pokemondb.net/pokedex/buizel,['Water'],0.0,[],[],70.0
+30,Combee,https://pokemondb.net/pokedex/combee,"['Bug', 'Flying']",0.0,[],[],30.0
+60,Pachirisu,https://pokemondb.net/pokedex/pachirisu,['Electric'],0.0,[],[],40.0
+70,Vespiquen,https://pokemondb.net/pokedex/vespiquen,"['Bug', 'Flying']",0.0,[],[],120.0
+45,Cherubi,https://pokemondb.net/pokedex/cherubi,['Grass'],0.0,[],[],40.0
+60,Wormadam,https://pokemondb.net/pokedex/wormadam,"['Bug', 'Grass']",0.0,[],[],50.0
+97,Rampardos,https://pokemondb.net/pokedex/rampardos,['Rock'],0.0,[],[],160.0
+67,Cranidos,https://pokemondb.net/pokedex/cranidos,['Rock'],0.0,[],[],90.0
+60,Bastiodon,https://pokemondb.net/pokedex/bastiodon,"['Rock', 'Steel']",0.0,[],[],130.0
+63,Stunky,https://pokemondb.net/pokedex/stunky,"['Poison', 'Dark']",0.0,[],[],40.0
+70,Mothim,https://pokemondb.net/pokedex/mothim,"['Bug', 'Flying']",0.0,[],[],90.0
+59,Bidoof,https://pokemondb.net/pokedex/bidoof,['Normal'],0.0,[],[],50.0
+30,Shieldon,https://pokemondb.net/pokedex/shieldon,"['Rock', 'Steel']",0.0,[],[],50.0
+40,Starly,https://pokemondb.net/pokedex/starly,"['Normal', 'Flying']",0.0,[],[],30.0
+84,Empoleon,https://pokemondb.net/pokedex/empoleon,"['Water', 'Steel']",0.0,[],[],170.0
+55,Staravia,https://pokemondb.net/pokedex/staravia,"['Normal', 'Flying']",0.0,[],[],60.0
+40,Burmy,https://pokemondb.net/pokedex/burmy,['Bug'],0.0,[],[],20.0
+53,Piplup,https://pokemondb.net/pokedex/piplup,['Water'],0.0,[],[],40.0
+75,Grotle,https://pokemondb.net/pokedex/grotle,['Grass'],0.0,[],[],110.00000000000001
+76,Infernape,https://pokemondb.net/pokedex/infernape,"['Fire', 'Fighting']",0.0,[],[],120.0
+44,Chimchar,https://pokemondb.net/pokedex/chimchar,['Fire'],0.0,[],[],50.0
+95,Torterra,https://pokemondb.net/pokedex/torterra,"['Grass', 'Ground']",0.0,[],[],220.00000000000003
+64,Monferno,https://pokemondb.net/pokedex/monferno,"['Fire', 'Fighting']",0.0,[],[],90.0
+64,Prinplup,https://pokemondb.net/pokedex/prinplup,['Water'],0.0,[],[],80.0
+85,Staraptor,https://pokemondb.net/pokedex/staraptor,"['Normal', 'Flying']",0.0,[],[],120.0
+55,Turtwig,https://pokemondb.net/pokedex/turtwig,['Grass'],0.0,[],[],40.0
+80,Latios,https://pokemondb.net/pokedex/latios,"['Dragon', 'Psychic']",0.0,[],[],200.0
+100,Kyogre,https://pokemondb.net/pokedex/kyogre,['Water'],0.0,[],[],450.0
+105,Rayquaza,https://pokemondb.net/pokedex/rayquaza,"['Dragon', 'Flying']",0.0,[],[],700.0
+80,Registeel,https://pokemondb.net/pokedex/registeel,['Steel'],0.0,[],[],190.0
+50,Deoxys,https://pokemondb.net/pokedex/deoxys,['Psychic'],0.0,[],[],170.0
+80,Regice,https://pokemondb.net/pokedex/regice,['Ice'],0.0,[],[],180.0
+80,Regirock,https://pokemondb.net/pokedex/regirock,['Rock'],0.0,[],[],170.0
+35,Clamperl,https://pokemondb.net/pokedex/clamperl,['Water'],0.0,[],[],40.0
+80,Latias,https://pokemondb.net/pokedex/latias,"['Dragon', 'Psychic']",0.0,[],[],140.0
+60,Metang,https://pokemondb.net/pokedex/metang,"['Steel', 'Psychic']",0.0,[],[],120.0
+100,Jirachi,https://pokemondb.net/pokedex/jirachi,"['Steel', 'Psychic']",0.0,[],[],30.0
+40,Beldum,https://pokemondb.net/pokedex/beldum,"['Steel', 'Psychic']",0.0,[],[],60.0
+80,Metagross,https://pokemondb.net/pokedex/metagross,"['Steel', 'Psychic']",0.0,[],[],160.0
+110,Walrein,https://pokemondb.net/pokedex/walrein,"['Ice', 'Water']",0.0,[],[],140.0
+90,Sealeo,https://pokemondb.net/pokedex/sealeo,"['Ice', 'Water']",0.0,[],[],110.00000000000001
+20,Duskull,https://pokemondb.net/pokedex/duskull,['Ghost'],0.0,[],[],80.0
+64,Banette,https://pokemondb.net/pokedex/banette,['Ghost'],0.0,[],[],110.00000000000001
+60,Kecleon,https://pokemondb.net/pokedex/kecleon,['Normal'],0.0,[],[],100.0
+70,Castform,https://pokemondb.net/pokedex/castform,['Normal'],0.0,[],[],30.0
+95,Milotic,https://pokemondb.net/pokedex/milotic,['Water'],0.0,[],[],620.0
+44,Shuppet,https://pokemondb.net/pokedex/shuppet,['Ghost'],0.0,[],[],60.0
+20,Feebas,https://pokemondb.net/pokedex/feebas,['Water'],0.0,[],[],60.0
+45,Anorith,https://pokemondb.net/pokedex/anorith,"['Rock', 'Bug']",0.0,[],[],70.0
+60,Claydol,https://pokemondb.net/pokedex/claydol,"['Ground', 'Psychic']",0.0,[],[],150.0
+86,Cradily,https://pokemondb.net/pokedex/cradily,"['Rock', 'Grass']",0.0,[],[],150.0
+40,Baltoy,https://pokemondb.net/pokedex/baltoy,"['Ground', 'Psychic']",0.0,[],[],50.0
+63,Crawdaunt,https://pokemondb.net/pokedex/crawdaunt,"['Water', 'Dark']",0.0,[],[],110.00000000000001
+66,Lileep,https://pokemondb.net/pokedex/lileep,"['Rock', 'Grass']",0.0,[],[],100.0
+110,Whiscash,https://pokemondb.net/pokedex/whiscash,"['Water', 'Ground']",0.0,[],[],90.0
+50,Barboach,https://pokemondb.net/pokedex/barboach,"['Water', 'Ground']",0.0,[],[],40.0
+90,Solrock,https://pokemondb.net/pokedex/solrock,"['Rock', 'Psychic']",0.0,[],[],120.0
+90,Lunatone,https://pokemondb.net/pokedex/lunatone,"['Rock', 'Psychic']",0.0,[],[],100.0
+73,Seviper,https://pokemondb.net/pokedex/seviper,['Poison'],0.0,[],[],270.0
+73,Zangoose,https://pokemondb.net/pokedex/zangoose,['Normal'],0.0,[],[],130.0
+75,Armaldo,https://pokemondb.net/pokedex/armaldo,"['Rock', 'Bug']",0.0,[],[],150.0
+43,Corphish,https://pokemondb.net/pokedex/corphish,['Water'],0.0,[],[],60.0
+45,Trapinch,https://pokemondb.net/pokedex/trapinch,['Ground'],0.0,[],[],70.0
+75,Altaria,https://pokemondb.net/pokedex/altaria,"['Dragon', 'Flying']",0.0,[],[],110.00000000000001
+70,Cacturne,https://pokemondb.net/pokedex/cacturne,"['Grass', 'Dark']",0.0,[],[],130.0
+50,Cacnea,https://pokemondb.net/pokedex/cacnea,['Grass'],0.0,[],[],40.0
+45,Swablu,https://pokemondb.net/pokedex/swablu,"['Normal', 'Flying']",0.0,[],[],40.0
+80,Flygon,https://pokemondb.net/pokedex/flygon,"['Ground', 'Dragon']",0.0,[],[],200.0
+50,Vibrava,https://pokemondb.net/pokedex/vibrava,"['Ground', 'Dragon']",0.0,[],[],110.00000000000001
+60,Spinda,https://pokemondb.net/pokedex/spinda,['Normal'],0.0,[],[],110.00000000000001
+80,Grumpig,https://pokemondb.net/pokedex/grumpig,['Psychic'],0.0,[],[],90.0
+60,Spoink,https://pokemondb.net/pokedex/spoink,['Psychic'],0.0,[],[],70.0
+70,Camerupt,https://pokemondb.net/pokedex/camerupt,"['Fire', 'Ground']",0.0,[],[],190.0
+70,Torkoal,https://pokemondb.net/pokedex/torkoal,['Fire'],0.0,[],[],50.0
+60,Numel,https://pokemondb.net/pokedex/numel,"['Fire', 'Ground']",0.0,[],[],70.0
+170,Wailord,https://pokemondb.net/pokedex/wailord,['Water'],0.0,[],[],1450.0
+130,Wailmer,https://pokemondb.net/pokedex/wailmer,['Water'],0.0,[],[],200.0
+70,Sharpedo,https://pokemondb.net/pokedex/sharpedo,"['Water', 'Dark']",0.0,[],[],180.0
+45,Carvanha,https://pokemondb.net/pokedex/carvanha,"['Water', 'Dark']",0.0,[],[],80.0
+100,Swalot,https://pokemondb.net/pokedex/swalot,['Poison'],0.0,[],[],170.0
+70,Gulpin,https://pokemondb.net/pokedex/gulpin,['Poison'],0.0,[],[],40.0
+50,Roselia,https://pokemondb.net/pokedex/roselia,"['Grass', 'Poison']",0.0,[],[],30.0
+65,Illumise,https://pokemondb.net/pokedex/illumise,['Bug'],0.0,[],[],60.0
+65,Volbeat,https://pokemondb.net/pokedex/volbeat,['Bug'],0.0,[],[],70.0
+60,Minun,https://pokemondb.net/pokedex/minun,['Electric'],0.0,[],[],40.0
+50,Aron,https://pokemondb.net/pokedex/aron,"['Steel', 'Rock']",0.0,[],[],40.0
+50,Mawile,https://pokemondb.net/pokedex/mawile,"['Steel', 'Fairy']",0.0,[],[],60.0
+50,Sableye,https://pokemondb.net/pokedex/sableye,"['Dark', 'Ghost']",0.0,[],[],50.0
+70,Delcatty,https://pokemondb.net/pokedex/delcatty,['Normal'],0.0,[],[],110.00000000000001
+50,Skitty,https://pokemondb.net/pokedex/skitty,['Normal'],0.0,[],[],60.0
+30,Nosepass,https://pokemondb.net/pokedex/nosepass,['Rock'],0.0,[],[],100.0
+50,Azurill,https://pokemondb.net/pokedex/azurill,"['Normal', 'Fairy']",0.0,[],[],20.0
+144,Hariyama,https://pokemondb.net/pokedex/hariyama,['Fighting'],0.0,[],[],229.99999999999997
+72,Makuhita,https://pokemondb.net/pokedex/makuhita,['Fighting'],0.0,[],[],100.0
+84,Loudred,https://pokemondb.net/pokedex/loudred,['Normal'],0.0,[],[],100.0
+64,Whismur,https://pokemondb.net/pokedex/whismur,['Normal'],0.0,[],[],60.0
+1,Shedinja,https://pokemondb.net/pokedex/shedinja,"['Bug', 'Ghost']",0.0,[],[],80.0
+31,Nincada,https://pokemondb.net/pokedex/nincada,"['Bug', 'Ground']",0.0,[],[],50.0
+61,Ninjask,https://pokemondb.net/pokedex/ninjask,"['Bug', 'Flying']",0.0,[],[],80.0
+104,Exploud,https://pokemondb.net/pokedex/exploud,['Normal'],0.0,[],[],150.0
+80,Vigoroth,https://pokemondb.net/pokedex/vigoroth,['Normal'],0.0,[],[],140.0
+60,Slakoth,https://pokemondb.net/pokedex/slakoth,['Normal'],0.0,[],[],80.0
+40,Wingull,https://pokemondb.net/pokedex/wingull,"['Water', 'Flying']",0.0,[],[],60.0
+40,Taillow,https://pokemondb.net/pokedex/taillow,"['Normal', 'Flying']",0.0,[],[],30.0
+90,Shiftry,https://pokemondb.net/pokedex/shiftry,"['Grass', 'Dark']",0.0,[],[],130.0
+150,Slaking,https://pokemondb.net/pokedex/slaking,['Normal'],0.0,[],[],200.0
+70,Nuzleaf,https://pokemondb.net/pokedex/nuzleaf,"['Grass', 'Dark']",0.0,[],[],100.0
+40,Seedot,https://pokemondb.net/pokedex/seedot,['Grass'],0.0,[],[],50.0
+60,Beautifly,https://pokemondb.net/pokedex/beautifly,"['Bug', 'Flying']",0.0,[],[],100.0
+80,Ludicolo,https://pokemondb.net/pokedex/ludicolo,"['Water', 'Grass']",0.0,[],[],150.0
+60,Lombre,https://pokemondb.net/pokedex/lombre,"['Water', 'Grass']",0.0,[],[],120.0
+40,Lotad,https://pokemondb.net/pokedex/lotad,"['Water', 'Grass']",0.0,[],[],50.0
+60,Swellow,https://pokemondb.net/pokedex/swellow,"['Normal', 'Flying']",0.0,[],[],70.0
+60,Dustox,https://pokemondb.net/pokedex/dustox,"['Bug', 'Poison']",0.0,[],[],120.0
+50,Cascoon,https://pokemondb.net/pokedex/cascoon,['Bug'],0.0,[],[],70.0
+50,Silcoon,https://pokemondb.net/pokedex/silcoon,['Bug'],0.0,[],[],60.0
+45,Wurmple,https://pokemondb.net/pokedex/wurmple,['Bug'],0.0,[],[],30.0
+78,Linoone,https://pokemondb.net/pokedex/linoone,['Normal'],0.0,[],[],50.0
+38,Zigzagoon,https://pokemondb.net/pokedex/zigzagoon,['Normal'],0.0,[],[],40.0
+70,Mightyena,https://pokemondb.net/pokedex/mightyena,['Dark'],0.0,[],[],100.0
+35,Poochyena,https://pokemondb.net/pokedex/poochyena,['Dark'],0.0,[],[],50.0
+100,Swampert,https://pokemondb.net/pokedex/swampert,"['Water', 'Ground']",0.0,[],[],150.0
+70,Marshtomp,https://pokemondb.net/pokedex/marshtomp,"['Water', 'Ground']",0.0,[],[],70.0
+50,Mudkip,https://pokemondb.net/pokedex/mudkip,['Water'],0.0,[],[],40.0
+60,Combusken,https://pokemondb.net/pokedex/combusken,"['Fire', 'Fighting']",0.0,[],[],90.0
+50,Grovyle,https://pokemondb.net/pokedex/grovyle,['Grass'],0.0,[],[],90.0
+70,Sceptile,https://pokemondb.net/pokedex/sceptile,['Grass'],0.0,[],[],170.0
+40,Treecko,https://pokemondb.net/pokedex/treecko,['Grass'],0.0,[],[],50.0
+100,Celebi,https://pokemondb.net/pokedex/celebi,"['Psychic', 'Grass']",0.0,[],[],60.0
+80,Blaziken,https://pokemondb.net/pokedex/blaziken,"['Fire', 'Fighting']",0.0,[],[],190.0
+45,Elekid,https://pokemondb.net/pokedex/elekid,['Electric'],0.0,[],[],60.0
+45,Smoochum,https://pokemondb.net/pokedex/smoochum,"['Ice', 'Psychic']",0.0,[],[],40.0
+106,Ho-oh,https://pokemondb.net/pokedex/ho-oh,"['Fire', 'Flying']",0.0,[],[],380.0
+106,Lugia,https://pokemondb.net/pokedex/lugia,"['Psychic', 'Flying']",0.0,[],[],520.0
+50,Hitmontop,https://pokemondb.net/pokedex/hitmontop,['Fighting'],0.0,[],[],140.0
+100,Tyranitar,https://pokemondb.net/pokedex/tyranitar,"['Rock', 'Dark']",0.0,[],[],200.0
+45,Torchic,https://pokemondb.net/pokedex/torchic,['Fire'],0.0,[],[],40.0
+35,Tyrogue,https://pokemondb.net/pokedex/tyrogue,['Fighting'],0.0,[],[],70.0
+55,Smeargle,https://pokemondb.net/pokedex/smeargle,['Normal'],0.0,[],[],120.0
+85,Porygon2,https://pokemondb.net/pokedex/porygon2,['Normal'],0.0,[],[],60.0
+90,Donphan,https://pokemondb.net/pokedex/donphan,['Ground'],0.0,[],[],110.00000000000001
+45,Houndour,https://pokemondb.net/pokedex/houndour,"['Dark', 'Fire']",0.0,[],[],60.0
+90,Phanpy,https://pokemondb.net/pokedex/phanpy,['Ground'],0.0,[],[],50.0
+75,Kingdra,https://pokemondb.net/pokedex/kingdra,"['Water', 'Dragon']",0.0,[],[],180.0
+73,Stantler,https://pokemondb.net/pokedex/stantler,['Normal'],0.0,[],[],140.0
+75,Houndoom,https://pokemondb.net/pokedex/houndoom,"['Dark', 'Fire']",0.0,[],[],140.0
+85,Mantine,https://pokemondb.net/pokedex/mantine,"['Water', 'Flying']",0.0,[],[],210.0
+45,Delibird,https://pokemondb.net/pokedex/delibird,"['Ice', 'Flying']",0.0,[],[],90.0
+35,Remoraid,https://pokemondb.net/pokedex/remoraid,['Water'],0.0,[],[],60.0
+75,Octillery,https://pokemondb.net/pokedex/octillery,['Water'],0.0,[],[],90.0
+65,Skarmory,https://pokemondb.net/pokedex/skarmory,"['Steel', 'Flying']",0.0,[],[],170.0
+55,Sneasel,https://pokemondb.net/pokedex/sneasel,"['Dark', 'Ice']",0.0,[],[],90.0
+80,Heracross,https://pokemondb.net/pokedex/heracross,"['Bug', 'Fighting']",0.0,[],[],150.0
+70,Scizor,https://pokemondb.net/pokedex/scizor,"['Bug', 'Steel']",0.0,[],[],180.0
+90,Granbull,https://pokemondb.net/pokedex/granbull,['Fairy'],0.0,[],[],140.0
+60,Snubbull,https://pokemondb.net/pokedex/snubbull,['Fairy'],0.0,[],[],60.0
+75,Steelix,https://pokemondb.net/pokedex/steelix,"['Steel', 'Ground']",0.0,[],[],919.9999999999999
+65,Gligar,https://pokemondb.net/pokedex/gligar,"['Ground', 'Flying']",0.0,[],[],110.00000000000001
+100,Dunsparce,https://pokemondb.net/pokedex/dunsparce,['Normal'],0.0,[],[],150.0
+20,Shuckle,https://pokemondb.net/pokedex/shuckle,"['Bug', 'Rock']",0.0,[],[],60.0
+75,Forretress,https://pokemondb.net/pokedex/forretress,"['Bug', 'Steel']",0.0,[],[],120.0
+95,Slowking,https://pokemondb.net/pokedex/slowking,"['Water', 'Psychic']",0.0,[],[],200.0
+65,Qwilfish,https://pokemondb.net/pokedex/qwilfish,"['Water', 'Poison']",0.0,[],[],50.0
+70,Girafarig,https://pokemondb.net/pokedex/girafarig,"['Normal', 'Psychic']",0.0,[],[],150.0
+190,Wobbuffet,https://pokemondb.net/pokedex/wobbuffet,['Psychic'],0.0,[],[],130.0
+50,Pineco,https://pokemondb.net/pokedex/pineco,['Bug'],0.0,[],[],60.0
+48,Unown,https://pokemondb.net/pokedex/unown,['Psychic'],0.0,[],[],50.0
+60,Misdreavus,https://pokemondb.net/pokedex/misdreavus,['Ghost'],0.0,[],[],70.0
+60,Murkrow,https://pokemondb.net/pokedex/murkrow,"['Dark', 'Flying']",0.0,[],[],50.0
+65,Espeon,https://pokemondb.net/pokedex/espeon,['Psychic'],0.0,[],[],90.0
+95,Quagsire,https://pokemondb.net/pokedex/quagsire,"['Water', 'Ground']",0.0,[],[],140.0
+55,Wooper,https://pokemondb.net/pokedex/wooper,"['Water', 'Ground']",0.0,[],[],40.0
+75,Sunflora,https://pokemondb.net/pokedex/sunflora,['Grass'],0.0,[],[],80.0
+30,Sunkern,https://pokemondb.net/pokedex/sunkern,['Grass'],0.0,[],[],30.0
+95,Umbreon,https://pokemondb.net/pokedex/umbreon,['Dark'],0.0,[],[],100.0
+65,Yanma,https://pokemondb.net/pokedex/yanma,"['Bug', 'Flying']",0.0,[],[],120.0
+55,Aipom,https://pokemondb.net/pokedex/aipom,['Normal'],0.0,[],[],80.0
+55,Skiploom,https://pokemondb.net/pokedex/skiploom,"['Grass', 'Flying']",0.0,[],[],60.0
+35,Hoppip,https://pokemondb.net/pokedex/hoppip,"['Grass', 'Flying']",0.0,[],[],40.0
+90,Politoed,https://pokemondb.net/pokedex/politoed,['Water'],0.0,[],[],110.00000000000001
+70,Sudowoodo,https://pokemondb.net/pokedex/sudowoodo,['Rock'],0.0,[],[],120.0
+100,Azumarill,https://pokemondb.net/pokedex/azumarill,"['Water', 'Fairy']",0.0,[],[],80.0
+75,Jumpluff,https://pokemondb.net/pokedex/jumpluff,"['Grass', 'Flying']",0.0,[],[],80.0
+40,Natu,https://pokemondb.net/pokedex/natu,"['Psychic', 'Flying']",0.0,[],[],20.0
+75,Chinchou,https://pokemondb.net/pokedex/chinchou,"['Water', 'Electric']",0.0,[],[],50.0
+85,Crobat,https://pokemondb.net/pokedex/crobat,"['Poison', 'Flying']",0.0,[],[],180.0
+35,Togepi,https://pokemondb.net/pokedex/togepi,['Fairy'],0.0,[],[],30.0
+90,Igglybuff,https://pokemondb.net/pokedex/igglybuff,"['Normal', 'Fairy']",0.0,[],[],30.0
+55,Togetic,https://pokemondb.net/pokedex/togetic,"['Fairy', 'Flying']",0.0,[],[],60.0
+125,Lanturn,https://pokemondb.net/pokedex/lanturn,"['Water', 'Electric']",0.0,[],[],120.0
+20,Pichu,https://pokemondb.net/pokedex/pichu,['Electric'],0.0,[],[],30.0
+40,Spinarak,https://pokemondb.net/pokedex/spinarak,"['Bug', 'Poison']",0.0,[],[],50.0
+70,Ariados,https://pokemondb.net/pokedex/ariados,"['Bug', 'Poison']",0.0,[],[],110.00000000000001
+55,Ledian,https://pokemondb.net/pokedex/ledian,"['Bug', 'Flying']",0.0,[],[],140.0
+85,Furret,https://pokemondb.net/pokedex/furret,['Normal'],0.0,[],[],180.0
+35,Sentret,https://pokemondb.net/pokedex/sentret,['Normal'],0.0,[],[],80.0
+100,Noctowl,https://pokemondb.net/pokedex/noctowl,"['Normal', 'Flying']",0.0,[],[],160.0
+60,Hoothoot,https://pokemondb.net/pokedex/hoothoot,"['Normal', 'Flying']",0.0,[],[],70.0
+65,Croconaw,https://pokemondb.net/pokedex/croconaw,['Water'],0.0,[],[],110.00000000000001
+85,Feraligatr,https://pokemondb.net/pokedex/feraligatr,['Water'],0.0,[],[],229.99999999999997
+50,Totodile,https://pokemondb.net/pokedex/totodile,['Water'],0.0,[],[],60.0
+40,Ledyba,https://pokemondb.net/pokedex/ledyba,"['Bug', 'Flying']",0.0,[],[],100.0
+78,Typhlosion,https://pokemondb.net/pokedex/typhlosion,['Fire'],0.0,[],[],170.0
+80,Meganium,https://pokemondb.net/pokedex/meganium,['Grass'],0.0,[],[],180.0
+39,Cyndaquil,https://pokemondb.net/pokedex/cyndaquil,['Fire'],0.0,[],[],50.0
+58,Quilava,https://pokemondb.net/pokedex/quilava,['Fire'],0.0,[],[],90.0
+60,Bayleef,https://pokemondb.net/pokedex/bayleef,['Grass'],0.0,[],[],120.0
+100,Mew,https://pokemondb.net/pokedex/mew,['Psychic'],0.0,[],[],40.0
+106,Mewtwo,https://pokemondb.net/pokedex/mewtwo,['Psychic'],0.0,[],[],200.0
+91,Dragonite,https://pokemondb.net/pokedex/dragonite,"['Dragon', 'Flying']",0.0,[],[],220.00000000000003
+90,Zapdos,https://pokemondb.net/pokedex/zapdos,"['Electric', 'Flying']",0.0,[],[],160.0
+45,Chikorita,https://pokemondb.net/pokedex/chikorita,['Grass'],0.0,[],[],90.0
+41,Dratini,https://pokemondb.net/pokedex/dratini,['Dragon'],0.0,[],[],180.0
+90,Articuno,https://pokemondb.net/pokedex/articuno,"['Ice', 'Flying']",0.0,[],[],170.0
+130,Vaporeon,https://pokemondb.net/pokedex/vaporeon,['Water'],0.0,[],[],100.0
+160,Snorlax,https://pokemondb.net/pokedex/snorlax,['Normal'],0.0,[],[],210.0
+80,Aerodactyl,https://pokemondb.net/pokedex/aerodactyl,"['Rock', 'Flying']",0.0,[],[],180.0
+60,Kabutops,https://pokemondb.net/pokedex/kabutops,"['Rock', 'Water']",0.0,[],[],130.0
+61,Dragonair,https://pokemondb.net/pokedex/dragonair,['Dragon'],0.0,[],[],400.0
+55,Eevee,https://pokemondb.net/pokedex/eevee,['Normal'],0.0,[],[],30.0
+65,Jolteon,https://pokemondb.net/pokedex/jolteon,['Electric'],0.0,[],[],80.0
+48,Ditto,https://pokemondb.net/pokedex/ditto,['Normal'],0.0,[],[],30.0
+130,Lapras,https://pokemondb.net/pokedex/lapras,"['Water', 'Ice']",0.0,[],[],250.0
+95,Gyarados,https://pokemondb.net/pokedex/gyarados,"['Water', 'Flying']",0.0,[],[],650.0
+20,Magikarp,https://pokemondb.net/pokedex/magikarp,['Water'],0.0,[],[],90.0
+75,Tauros,https://pokemondb.net/pokedex/tauros,['Normal'],0.0,[],[],140.0
+65,Pinsir,https://pokemondb.net/pokedex/pinsir,['Bug'],0.0,[],[],150.0
+65,Magmar,https://pokemondb.net/pokedex/magmar,['Fire'],0.0,[],[],130.0
+65,Electabuzz,https://pokemondb.net/pokedex/electabuzz,['Electric'],0.0,[],[],110.00000000000001
+65,Jynx,https://pokemondb.net/pokedex/jynx,"['Ice', 'Psychic']",0.0,[],[],140.0
+40,Mr. Mime,https://pokemondb.net/pokedex/mr-mime,"['Psychic', 'Fairy']",0.0,[],[],130.0
+80,Seaking,https://pokemondb.net/pokedex/seaking,['Water'],0.0,[],[],130.0
+55,Seadra,https://pokemondb.net/pokedex/seadra,['Water'],0.0,[],[],120.0
+60,Starmie,https://pokemondb.net/pokedex/starmie,"['Water', 'Psychic']",0.0,[],[],110.00000000000001
+30,Staryu,https://pokemondb.net/pokedex/staryu,['Water'],0.0,[],[],80.0
+70,Scyther,https://pokemondb.net/pokedex/scyther,"['Bug', 'Flying']",0.0,[],[],150.0
+30,Horsea,https://pokemondb.net/pokedex/horsea,['Water'],0.0,[],[],40.0
+65,Weezing,https://pokemondb.net/pokedex/weezing,['Poison'],0.0,[],[],120.0
+250,Chansey,https://pokemondb.net/pokedex/chansey,['Normal'],0.0,[],[],110.00000000000001
+105,Rhydon,https://pokemondb.net/pokedex/rhydon,"['Ground', 'Rock']",0.0,[],[],190.0
+105,Kangaskhan,https://pokemondb.net/pokedex/kangaskhan,['Normal'],0.0,[],[],220.00000000000003
+65,Tangela,https://pokemondb.net/pokedex/tangela,['Grass'],0.0,[],[],100.0
+45,Goldeen,https://pokemondb.net/pokedex/goldeen,['Water'],0.0,[],[],60.0
+80,Rhyhorn,https://pokemondb.net/pokedex/rhyhorn,"['Ground', 'Rock']",0.0,[],[],100.0
+40,Koffing,https://pokemondb.net/pokedex/koffing,['Poison'],0.0,[],[],60.0
+50,Hitmonchan,https://pokemondb.net/pokedex/hitmonchan,['Fighting'],0.0,[],[],140.0
+50,Cubone,https://pokemondb.net/pokedex/cubone,['Ground'],0.0,[],[],40.0
+95,Exeggutor,https://pokemondb.net/pokedex/exeggutor,"['Grass', 'Psychic']",0.0,[],[],200.0
+60,Exeggcute,https://pokemondb.net/pokedex/exeggcute,"['Grass', 'Psychic']",0.0,[],[],40.0
+90,Lickitung,https://pokemondb.net/pokedex/lickitung,['Normal'],0.0,[],[],120.0
+60,Marowak,https://pokemondb.net/pokedex/marowak,['Ground'],0.0,[],[],100.0
+50,Hitmonlee,https://pokemondb.net/pokedex/hitmonlee,['Fighting'],0.0,[],[],150.0
+60,Electrode,https://pokemondb.net/pokedex/electrode,['Electric'],0.0,[],[],120.0
+60,Drowzee,https://pokemondb.net/pokedex/drowzee,['Psychic'],0.0,[],[],100.0
+40,Voltorb,https://pokemondb.net/pokedex/voltorb,['Electric'],0.0,[],[],50.0
+60,Gengar,https://pokemondb.net/pokedex/gengar,"['Ghost', 'Poison']",0.0,[],[],150.0
+35,Onix,https://pokemondb.net/pokedex/onix,"['Rock', 'Ground']",0.0,[],[],880.0000000000001
+55,Kingler,https://pokemondb.net/pokedex/kingler,['Water'],0.0,[],[],130.0
+30,Krabby,https://pokemondb.net/pokedex/krabby,['Water'],0.0,[],[],40.0
+85,Hypno,https://pokemondb.net/pokedex/hypno,['Psychic'],0.0,[],[],160.0
+45,Haunter,https://pokemondb.net/pokedex/haunter,"['Ghost', 'Poison']",0.0,[],[],160.0
+30,Gastly,https://pokemondb.net/pokedex/gastly,"['Ghost', 'Poison']",0.0,[],[],130.0
+50,Cloyster,https://pokemondb.net/pokedex/cloyster,"['Water', 'Ice']",0.0,[],[],150.0
+30,Shellder,https://pokemondb.net/pokedex/shellder,['Water'],0.0,[],[],30.0
+105,Muk,https://pokemondb.net/pokedex/muk,['Poison'],0.0,[],[],120.0
+80,Grimer,https://pokemondb.net/pokedex/grimer,['Poison'],0.0,[],[],90.0
+90,Dewgong,https://pokemondb.net/pokedex/dewgong,"['Water', 'Ice']",0.0,[],[],170.0
+65,Seel,https://pokemondb.net/pokedex/seel,['Water'],0.0,[],[],110.00000000000001
+60,Dodrio,https://pokemondb.net/pokedex/dodrio,"['Normal', 'Flying']",0.0,[],[],180.0
+35,Doduo,https://pokemondb.net/pokedex/doduo,"['Normal', 'Flying']",0.0,[],[],140.0
+52,Farfetch'd,https://pokemondb.net/pokedex/farfetchd,"['Normal', 'Flying']",0.0,[],[],80.0
+50,Magneton,https://pokemondb.net/pokedex/magneton,"['Electric', 'Steel']",0.0,[],[],100.0
+90,Slowpoke,https://pokemondb.net/pokedex/slowpoke,"['Water', 'Psychic']",0.0,[],[],120.0
+65,Rapidash,https://pokemondb.net/pokedex/rapidash,['Fire'],0.0,[],[],170.0
+25,Magnemite,https://pokemondb.net/pokedex/magnemite,"['Electric', 'Steel']",0.0,[],[],30.0
+95,Slowbro,https://pokemondb.net/pokedex/slowbro,"['Water', 'Psychic']",0.0,[],[],160.0
+50,Ponyta,https://pokemondb.net/pokedex/ponyta,['Fire'],0.0,[],[],100.0
+40,Tentacool,https://pokemondb.net/pokedex/tentacool,"['Water', 'Poison']",0.0,[],[],90.0
+40,Geodude,https://pokemondb.net/pokedex/geodude,"['Rock', 'Ground']",0.0,[],[],40.0
+80,Tentacruel,https://pokemondb.net/pokedex/tentacruel,"['Water', 'Poison']",0.0,[],[],160.0
+50,Bellsprout,https://pokemondb.net/pokedex/bellsprout,"['Grass', 'Poison']",0.0,[],[],70.0
+80,Golem,https://pokemondb.net/pokedex/golem,"['Rock', 'Ground']",0.0,[],[],140.0
+90,Machamp,https://pokemondb.net/pokedex/machamp,['Fighting'],0.0,[],[],160.0
+55,Graveler,https://pokemondb.net/pokedex/graveler,"['Rock', 'Ground']",0.0,[],[],100.0
+80,Machoke,https://pokemondb.net/pokedex/machoke,['Fighting'],0.0,[],[],150.0
+65,Weepinbell,https://pokemondb.net/pokedex/weepinbell,"['Grass', 'Poison']",0.0,[],[],100.0
+70,Machop,https://pokemondb.net/pokedex/machop,['Fighting'],0.0,[],[],80.0
+55,Alakazam,https://pokemondb.net/pokedex/alakazam,['Psychic'],0.0,[],[],150.0
+25,Abra,https://pokemondb.net/pokedex/abra,['Psychic'],0.0,[],[],90.0
+90,Poliwrath,https://pokemondb.net/pokedex/poliwrath,"['Water', 'Fighting']",0.0,[],[],130.0
+40,Mankey,https://pokemondb.net/pokedex/mankey,['Fighting'],0.0,[],[],50.0
+65,Poliwhirl,https://pokemondb.net/pokedex/poliwhirl,['Water'],0.0,[],[],100.0
+40,Poliwag,https://pokemondb.net/pokedex/poliwag,['Water'],0.0,[],[],60.0
+90,Arcanine,https://pokemondb.net/pokedex/arcanine,['Fire'],0.0,[],[],190.0
+40,Kadabra,https://pokemondb.net/pokedex/kadabra,['Psychic'],0.0,[],[],130.0
+55,Growlithe,https://pokemondb.net/pokedex/growlithe,['Fire'],0.0,[],[],70.0
+65,Primeape,https://pokemondb.net/pokedex/primeape,['Fighting'],0.0,[],[],100.0
+80,Golduck,https://pokemondb.net/pokedex/golduck,['Water'],0.0,[],[],170.0
+65,Persian,https://pokemondb.net/pokedex/persian,['Normal'],0.0,[],[],100.0
+40,Meowth,https://pokemondb.net/pokedex/meowth,['Normal'],0.0,[],[],40.0
+35,Dugtrio,https://pokemondb.net/pokedex/dugtrio,['Ground'],0.0,[],[],70.0
+70,Venomoth,https://pokemondb.net/pokedex/venomoth,"['Bug', 'Poison']",0.0,[],[],150.0
+60,Venonat,https://pokemondb.net/pokedex/venonat,"['Bug', 'Poison']",0.0,[],[],100.0
+50,Psyduck,https://pokemondb.net/pokedex/psyduck,['Water'],0.0,[],[],80.0
+60,Parasect,https://pokemondb.net/pokedex/parasect,"['Bug', 'Grass']",0.0,[],[],100.0
+75,Vileplume,https://pokemondb.net/pokedex/vileplume,"['Grass', 'Poison']",0.0,[],[],120.0
+40,Zubat,https://pokemondb.net/pokedex/zubat,"['Poison', 'Flying']",0.0,[],[],80.0
+35,Paras,https://pokemondb.net/pokedex/paras,"['Bug', 'Grass']",0.0,[],[],30.0
+10,Diglett,https://pokemondb.net/pokedex/diglett,['Ground'],0.0,[],[],20.0
+60,Gloom,https://pokemondb.net/pokedex/gloom,"['Grass', 'Poison']",0.0,[],[],80.0
+75,Golbat,https://pokemondb.net/pokedex/golbat,"['Poison', 'Flying']",0.0,[],[],160.0
+45,Oddish,https://pokemondb.net/pokedex/oddish,"['Grass', 'Poison']",0.0,[],[],50.0
+140,Wigglytuff,https://pokemondb.net/pokedex/wigglytuff,"['Normal', 'Fairy']",0.0,[],[],100.0
+73,Ninetales,https://pokemondb.net/pokedex/ninetales,['Fire'],0.0,[],[],110.00000000000001
+38,Vulpix,https://pokemondb.net/pokedex/vulpix,['Fire'],0.0,[],[],60.0
+95,Clefable,https://pokemondb.net/pokedex/clefable,['Fairy'],0.0,[],[],130.0
+70,Clefairy,https://pokemondb.net/pokedex/clefairy,['Fairy'],0.0,[],[],60.0
+81,Nidoking,https://pokemondb.net/pokedex/nidoking,"['Poison', 'Ground']",0.0,[],[],140.0
+115,Jigglypuff,https://pokemondb.net/pokedex/jigglypuff,"['Normal', 'Fairy']",0.0,[],[],50.0
+61,Nidorino,https://pokemondb.net/pokedex/nidorino,['Poison'],0.0,[],[],90.0
+46,Nidoran♂,https://pokemondb.net/pokedex/nidoran-m,['Poison'],0.0,[],[],50.0
+75,Sandslash,https://pokemondb.net/pokedex/sandslash,['Ground'],0.0,[],[],100.0
+90,Nidoqueen,https://pokemondb.net/pokedex/nidoqueen,"['Poison', 'Ground']",0.0,[],[],130.0
+70,Nidorina,https://pokemondb.net/pokedex/nidorina,['Poison'],0.0,[],[],80.0
+55,Nidoran♀,https://pokemondb.net/pokedex/nidoran-f,['Poison'],0.0,[],[],40.0
+60,Raichu,https://pokemondb.net/pokedex/raichu,['Electric'],0.0,[],[],80.0
+50,Sandshrew,https://pokemondb.net/pokedex/sandshrew,['Ground'],0.0,[],[],60.0
+35,Pikachu,https://pokemondb.net/pokedex/pikachu,['Electric'],0.0,[],[],40.0
+60,Arbok,https://pokemondb.net/pokedex/arbok,['Poison'],0.0,[],[],350.0
+65,Beedrill,https://pokemondb.net/pokedex/beedrill,"['Bug', 'Poison']",0.0,[],[],100.0
+45,Kakuna,https://pokemondb.net/pokedex/kakuna,"['Bug', 'Poison']",0.0,[],[],60.0
+40,Weedle,https://pokemondb.net/pokedex/weedle,"['Bug', 'Poison']",0.0,[],[],30.0
+45,Caterpie,https://pokemondb.net/pokedex/caterpie,['Bug'],0.0,[],[],30.0
+60,Butterfree,https://pokemondb.net/pokedex/butterfree,"['Bug', 'Flying']",0.0,[],[],110.00000000000001
+50,Metapod,https://pokemondb.net/pokedex/metapod,['Bug'],0.0,[],[],70.0
+35,Ekans,https://pokemondb.net/pokedex/ekans,['Poison'],0.0,[],[],200.0
