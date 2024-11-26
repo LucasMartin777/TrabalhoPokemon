@@ -1,28 +1,31 @@
-# pokedex_scraper/data_processing.py
-
-import pandas as pd
 import json
+import pandas as pd # type: ignore
 
-def load_data(json_file):
-    with open(json_file, 'r', encoding='utf-8') as f:
+def process_pokedex_data(input_file, output_file):
+    """
+    Processa o arquivo JSON gerado pelo Scrapy, para preparar dados para o Neo4j.
+    """
+    with open(input_file, 'r') as f:
         data = json.load(f)
-    return data
 
-def clean_data(data):
-    df = pd.DataFrame(data)
-    df.dropna(subset=['numero', 'nome', 'url'], inplace=True)
-    df['numero'] = df['numero'].astype(int)
-    df['tamanho_cm'] = pd.to_numeric(df['tamanho_cm'], errors='coerce')
-    df['peso_kg'] = pd.to_numeric(df['peso_kg'], errors='coerce')
-    df.fillna({'tamanho_cm': 0, 'peso_kg': 0}, inplace=True)
-    return df
+    processed_data = []
+    for pokemon in data:
+        processed_data.append({
+            "name": pokemon["name"],
+            "types": pokemon["types"],
+            "weight": float(pokemon["weight"].replace(' kg', '')),  # Remove 'kg' e converte para float
+            "evolves_to": pokemon.get("evolves_to", None),  # Evolução opcional
+            "weaknesses": pokemon.get("weaknesses", []),
+            "attacks": pokemon.get("attacks", [])
+        })
 
-def main():
-    data = load_data('output/pokedex.json')  
-    df = clean_data(data)
-    df.to_json('output/pokedex_clean.json', orient='records', indent=4)
-    df.to_csv('output/pokedex_clean.csv', index=False)
-    print("Dados processados e salvos com sucesso.")
+    # Salva o resultado em um novo arquivo JSON
+    with open(output_file, 'w') as f:
+        json.dump(processed_data, f, indent=4)
+
+    print(f"Dados processados salvos em: {output_file}")
 
 if __name__ == "__main__":
-    main()
+    input_file = "../output/pokedex.json"  # Caminho do arquivo bruto
+    output_file = "../output/pokedex_clean.json"  # Caminho do arquivo processado
+    process_pokedex_data(input_file, output_file)

@@ -1,0 +1,30 @@
+import logging
+
+# Configuração básica para gravar o log
+logging.basicConfig(
+    filename="C:/DevPrograms/TrabalhoPokemon/log/neo4j_import.log",
+    filemode="a",  # 'a' significa adicionar ao log existente
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    level=logging.INFO,
+)
+
+def log_insertion(pokemon):
+    logging.info(f"Inserido Pokémon: {pokemon}")
+
+def main():
+    # Exemplo de um Pokémon a ser inserido
+    pokemon = {
+        "name": "Pikachu",
+        "number": "#025",
+        "types": ["Electric"],
+        "weight": 6.0,
+    }
+
+    # Registro no log
+    log_insertion(pokemon)
+
+    # Continue com a inserção no Neo4j
+    print("Pokémon inserido no Neo4j.")
+
+if __name__ == "__main__":
+    main()

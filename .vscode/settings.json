@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pokedex_scraper"
+    ]
+}
